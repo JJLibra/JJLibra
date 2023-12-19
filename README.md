@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <p dir="auto"><strong>&emsp;&emsp;There are no real strong people in this world, only people who want to become stronger.</strong></p>
 </td></tr>
 <tr><td>
-<h3 dir="auto"><a id="user-content--work-experience" class="anchor" aria-hidden="true" tabindex="-1" href="#-work-experience"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🏢 Work Experience</h3>
+<h3 dir="auto"><a id="user-content--work-experience" class="anchor" aria-hidden="true" tabindex="-1" href="#-work-experience"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🏫 Academic Experience</h3>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9a58862172db1ef95e51e2e422e14b4788dd3d4ad89369c56eaec7ec3d0d8c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f74756875692e706e67"><img align="right" width="88" src="https://camo.githubusercontent.com/a9a58862172db1ef95e51e2e422e14b4788dd3d4ad89369c56eaec7ec3d0d8c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f74756875692e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" style="max-width: 100%;"></a>
 <ul dir="auto">
 <li>
@@ -71,16 +71,6 @@ Here are some ideas to get you started:
 <ul dir="auto">
 <li>工作岗位：Web前端开发工程师（初级）</li>
 <li>工作内容：GIS相关</li>
-</ul>
-</li>
-</ul>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb9bc2d0f9396b87938431e2da5a3ac9e7d3b8d420f53465436d2ad4811be1f3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6e696f2e706e67"><img align="right" width="88" src="https://camo.githubusercontent.com/eb9bc2d0f9396b87938431e2da5a3ac9e7d3b8d420f53465436d2ad4811be1f3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6e696f2e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" style="max-width: 100%;"></a>
-<ul dir="auto">
-<li>
-<p dir="auto"><a href="https://www.nio.cn/" rel="nofollow">蔚来汽车科技（安徽）有限公司</a> &emsp; 📌 2023-02-20 —— 2023-05-12</p>
-<ul dir="auto">
-<li>工作岗位：Web前端开发实习生</li>
-<li>工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作</li>
 </ul>
 </li>
 </ul>
