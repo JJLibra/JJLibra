@@ -64,13 +64,12 @@ Here are some ideas to get you started:
 </td></tr>
 <tr><td>
 <h3 dir="auto"><a id="user-content--work-experience" class="anchor" aria-hidden="true" tabindex="-1" href="#-work-experience"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🏫 Academic Experience</h3>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9a58862172db1ef95e51e2e422e14b4788dd3d4ad89369c56eaec7ec3d0d8c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f74756875692e706e67"><img align="right" width="88" src="https://camo.githubusercontent.com/a9a58862172db1ef95e51e2e422e14b4788dd3d4ad89369c56eaec7ec3d0d8c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f74756875692e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow"><img align="right" width="88" src="https://th.bing.com/th/id/R.55a04f7a38fdcc284f2b6f4822d90616?rik=4eyu4KrVmQUo%2bQ&riu=http%3a%2f%2fupload.shejihz.com%2f2019%2f03%2f706e4ee75c2e02749f9c00c83005ff51.jpg&ehk=EP9g65SLG0UtWbGjh05B0HM%2bA407KHt3VP0hcw6fCHA%3d&risl=&pid=ImgRaw&r=0" style="max-width: 100%;"></a>
 <ul dir="auto">
 <li>
-<p dir="auto"><a href="https://www.tuhuimap.com/" rel="nofollow">广州图慧信息科技有限公司</a> &emsp; 📌 2023-06-19 —— Now</p>
+<p dir="auto"><a href="https://www.nwpu.edu.cn/" rel="nofollow">西北工业大学</a> &emsp; 📌 2021-08-19 —— Now</p>
 <ul dir="auto">
-<li>工作岗位：Web前端开发工程师（初级）</li>
-<li>工作内容：GIS相关</li>
+<li>所学专业：网络空间安全</li>
 </ul>
 </li>
 </ul>
