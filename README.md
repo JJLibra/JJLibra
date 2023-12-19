@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://metrics.lecoq.io/LJJbyZJU?template=classic&config.timezone=Asia%2FShanghai"> </div>
 -->
 
-<div align="center" dir="auto">
-  
+<!-- 写在前面 -->
+<div align="center" dir="auto">  
   <div dir="auto">
     <a href="https://xxfer.cn" rel="nofollow">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4780FFCB&random=false&width=435&lines=console.log(%22Hello+World!%22);%E5%B0%8F%E6%9D%8E%E4%BB%8A%E5%A4%A9%E5%8F%88%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%8F%98%E5%BC%BA%E9%B8%AD~~~" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;width=435&amp;lines=console.log(%22Hello%2C%20World%22);今天又在努力变强鸭~~~&amp;center=true&amp;size=27" style="max-width: 100%;" /></a>
@@ -48,5 +48,177 @@ Here are some ideas to get you started:
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LJJbyZJU&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 -->
 
+<!-- 个人情况介绍 -->
 <h1 dir="auto"><a id="user-content--hello" class="anchor" aria-hidden="true" tabindex="-1" href="#-hello"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🙋 Welcome</h1>
+
+<table>
+<tbody><tr><td>
+<h3 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" tabindex="-1" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🤺 About Me</h3>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb666029311a3194da1c43912946b170634fc77c007ad8b55449eb13fa5db29c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f73746576656e2e706e67"><img align="right" width="88" src="https://camo.githubusercontent.com/cb666029311a3194da1c43912946b170634fc77c007ad8b55449eb13fa5db29c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f73746576656e2e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" style="max-width: 100%;"></a>
+<p dir="auto">&emsp;&emsp;大家好，我是小孙同学。</p>
+<p dir="auto">&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p dir="auto">&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
+<p dir="auto">&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p dir="auto"><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+</td></tr>
+<tr><td>
+<h3 dir="auto"><a id="user-content--work-experience" class="anchor" aria-hidden="true" tabindex="-1" href="#-work-experience"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🏢 Work Experience</h3>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9a58862172db1ef95e51e2e422e14b4788dd3d4ad89369c56eaec7ec3d0d8c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f74756875692e706e67"><img align="right" width="88" src="https://camo.githubusercontent.com/a9a58862172db1ef95e51e2e422e14b4788dd3d4ad89369c56eaec7ec3d0d8c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f74756875692e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" style="max-width: 100%;"></a>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://www.tuhuimap.com/" rel="nofollow">广州图慧信息科技有限公司</a> &emsp; 📌 2023-06-19 —— Now</p>
+<ul dir="auto">
+<li>工作岗位：Web前端开发工程师（初级）</li>
+<li>工作内容：GIS相关</li>
+</ul>
+</li>
+</ul>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb9bc2d0f9396b87938431e2da5a3ac9e7d3b8d420f53465436d2ad4811be1f3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6e696f2e706e67"><img align="right" width="88" src="https://camo.githubusercontent.com/eb9bc2d0f9396b87938431e2da5a3ac9e7d3b8d420f53465436d2ad4811be1f3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6e696f2e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" style="max-width: 100%;"></a>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://www.nio.cn/" rel="nofollow">蔚来汽车科技（安徽）有限公司</a> &emsp; 📌 2023-02-20 —— 2023-05-12</p>
+<ul dir="auto">
+<li>工作岗位：Web前端开发实习生</li>
+<li>工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作</li>
+</ul>
+</li>
+</ul>
+</td></tr>
+<tr><td>
+<h3 dir="auto"><a id="user-content--recent-blog" class="anchor" aria-hidden="true" tabindex="-1" href="#-recent-blog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>📃 Recent Blog</h3>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/079898beb1cec834a67fae263852409702835e991e520c590dc28349c7601a85/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f617374726f6e6175742e706e67"><img align="right" width="88" src="https://camo.githubusercontent.com/079898beb1cec834a67fae263852409702835e991e520c590dc28349c7601a85/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f617374726f6e6175742e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" style="max-width: 100%;"></a>
+
+<ul dir="auto">
+<li><a href="https://blog.sunguoqi.com/posts/9f4f8f84/" rel="nofollow">关于个人独立博客，我的折腾和思考</a> - 2023-12-09</li>
+<li><a href="https://blog.sunguoqi.com/posts/3eb6a074/" rel="nofollow">Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15</li>
+<li><a href="https://blog.sunguoqi.com/posts/e7213992/" rel="nofollow">小孙同学 の 第二大脑正在施工中。。。</a> - 2023-03-26</li>
+<li><a href="https://blog.sunguoqi.com/posts/abe837db/" rel="nofollow">奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25</li>
+<li><a href="https://blog.sunguoqi.com/posts/f3b61b38/" rel="nofollow">让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30</li>
+</ul>
+
+</td></tr>
+<tr><td>
+<h3 dir="auto"><a id="user-content--second-brain" class="anchor" aria-hidden="true" tabindex="-1" href="#-second-brain"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🧠 Second Brain</h3>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/39f1b5dc655d4a06115d3cb872e63a88cd860e84835b9df3dd4f20d7587cc6ab/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f746563686e6f6c6f676973742e706e67"><img align="right" width="88" src="https://camo.githubusercontent.com/39f1b5dc655d4a06115d3cb872e63a88cd860e84835b9df3dd4f20d7587cc6ab/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f746563686e6f6c6f676973742e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" style="max-width: 100%;"></a>
+
+<ul dir="auto">
+<li><a href="https://brain.sunguoqi.com/web/frontend/tools/git/git.html" rel="nofollow">Git</a> - 2023-12-08</li>
+<li><a href="https://brain.sunguoqi.com/web/frontend/tools/package-manage/npm.html" rel="nofollow">npm</a> - 2023-09-07</li>
+<li><a href="https://brain.sunguoqi.com/web/frontend/tools/package-manage/pnpm.html" rel="nofollow">pnpm</a> - 2023-09-07</li>
+<li><a href="https://brain.sunguoqi.com/web/frontend/tools/package-manage/yarn.html" rel="nofollow">yarn</a> - 2023-09-07</li>
+<li><a href="https://brain.sunguoqi.com/web/frontend/tools/vscode/vscode.html" rel="nofollow">Vscode 权威指南</a> - 2023-12-08</li>
+</ul>
+
+</td></tr>
+<tr><td>
+<h3 dir="auto"><a id="user-content-️-funny-soul" class="anchor" aria-hidden="true" tabindex="-1" href="#️-funny-soul"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🤾&zwj;♂️ Funny Soul</h3>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/93756deea9e14f6b31ebd7d1fd74b49428d7d14b6f555e98b4ef637d0d07257c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6172746973742e706e67"><img align="right" width="88" src="https://camo.githubusercontent.com/93756deea9e14f6b31ebd7d1fd74b49428d7d14b6f555e98b4ef637d0d07257c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6172746973742e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" style="max-width: 100%;"></a>
+
+<ul dir="auto">
+<li><a href="https://book.douban.com/subject/35193035/" rel="nofollow">读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10</li>
+<li><a href="https://book.douban.com/subject/27040433/" rel="nofollow">最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10</li>
+<li><a href="http://movie.douban.com/subject/1292052/" rel="nofollow">看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07</li>
+<li><a href="http://movie.douban.com/subject/1292365/" rel="nofollow">看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07</li>
+<li><a href="https://music.douban.com/subject/26567580/" rel="nofollow">听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07</li>
+</ul>
+
+</td></tr>
+<tr><td>
+<h3 dir="auto"><a id="user-content--wakatime" class="anchor" aria-hidden="true" tabindex="-1" href="#-wakatime"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>📊 WakaTime</h3>
+<themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+  <source srcset="https://camo.githubusercontent.com/a861b43a1501485a073865ac3e600c002d28a4a62592064200647c2ef1e54371/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d73756e3032323553554e266c61796f75743d636f6d7061637426746578745f636f6c6f723d6630663666632662675f636f6c6f723d303030303030303026686964655f626f726465723d7472756526686964655f7469746c653d74727565" media="(prefers-color-scheme: dark)" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&amp;layout=compact&amp;text_color=f0f6fc&amp;bg_color=00000000&amp;hide_border=true&amp;hide_title=true">
+  <source srcset="https://camo.githubusercontent.com/aebcebdb50c561001c540173ede34587871cae576ac04436b9fd50dbef5f1819/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d73756e3032323553554e266c61796f75743d636f6d7061637426746578745f636f6c6f723d3166323332382662675f636f6c6f723d303030303030303026686964655f626f726465723d7472756526686964655f7469746c653d74727565" media="(prefers-color-scheme: light)" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&amp;layout=compact&amp;text_color=1f2328&amp;bg_color=00000000&amp;hide_border=true&amp;hide_title=true">
+  <img src="https://camo.githubusercontent.com/a861b43a1501485a073865ac3e600c002d28a4a62592064200647c2ef1e54371/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d73756e3032323553554e266c61796f75743d636f6d7061637426746578745f636f6c6f723d6630663666632662675f636f6c6f723d303030303030303026686964655f626f726465723d7472756526686964655f7469746c653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&amp;layout=compact&amp;text_color=f0f6fc&amp;bg_color=00000000&amp;hide_border=true&amp;hide_title=true" style="visibility:visible;max-width:100%;">
+</picture></themed-picture>
+</td></tr>
+<tr><td>
+
+<p dir="auto"><strong>I'm an Early 🐤</strong></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>🌞 Morning                451 commits         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+🌆 Daytime                590 commits         ████████░░░░░░░░░░░░░░░░░   30.76 % 
+🌃 Evening                576 commits         ████████░░░░░░░░░░░░░░░░░   30.03 % 
+🌙 Night                  301 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="🌞 Morning                451 commits         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+🌆 Daytime                590 commits         ████████░░░░░░░░░░░░░░░░░   30.76 % 
+🌃 Evening                576 commits         ████████░░░░░░░░░░░░░░░░░   30.03 % 
+🌙 Night                  301 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % " tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto">📅 <strong>I'm Most Productive on Friday</strong></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>Monday                   271 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Tuesday                  185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Wednesday                232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Thursday                 230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Friday                   536 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Saturday                 184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Sunday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Monday                   271 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Tuesday                  185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Wednesday                232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Thursday                 230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Friday                   536 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Saturday                 184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Sunday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % " tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto">📊 <strong>This Week I Spent My Time On</strong></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 12 hrs 7 mins       ██████████████░░░░░░░░░░░   55.67 % 
+Vue.js                   3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+JSON                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+CSS                      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+
+🔥 Editors: 
+Obsidian                 11 hrs 55 mins      ██████████████░░░░░░░░░░░   54.77 % 
+VS Code                  9 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.23 % 
+
+💻 Operating System: 
+Mac                      21 hrs 46 mins      █████████████████████████   100.00 % 
+</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 12 hrs 7 mins       ██████████████░░░░░░░░░░░   55.67 % 
+Vue.js                   3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+JSON                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+CSS                      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+
+🔥 Editors: 
+Obsidian                 11 hrs 55 mins      ██████████████░░░░░░░░░░░   54.77 % 
+VS Code                  9 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.23 % 
+
+💻 Operating System: 
+Mac                      21 hrs 46 mins      █████████████████████████   100.00 % " tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto">Last Updated on 19/12/2023 01:19:14 UTC</p>
+
+</td></tr>
+</tbody></table>
+
+
 
