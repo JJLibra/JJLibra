@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb666029311a3194da1c43912946b170634fc77c007ad8b55449eb13fa5db29c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f73746576656e2e706e67"><img align="right" width="88" src="https://camo.githubusercontent.com/cb666029311a3194da1c43912946b170634fc77c007ad8b55449eb13fa5db29c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f73746576656e2e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" style="max-width: 100%;"></a>
 <p dir="auto">&emsp;&emsp;大家好，我是小李(xxfer)。</p>
 <p dir="auto">&emsp;&emsp;热爱编程、二次元、diy、电影、旅行。</p>
-<p dir="auto">&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。（目前是一名网络安全小彩笔）</p>
+<p dir="auto">&emsp;&emsp;热爱计算机科学和 IT 互联网事业，励志成为一名优秀的开发者。(目前是一名网络安全小彩笔)</p>
 <p dir="auto">&emsp;&emsp;这个世界上本就没有真正的强者，有的只有想要变强的人。</p>
 <p dir="auto">&emsp;&emsp;努力变强，凭心挥剑。</p>
 <p dir="auto"><strong>&emsp;&emsp;There are no real strong people in this world, only people who want to become stronger.</strong></p>
