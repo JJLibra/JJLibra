@@ -337,15 +337,6 @@ Mac                      19 hrs 10 mins      ███████████�
 <!--<div align="center">-->
 <!-- just img 图片 -->
 <!--<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /> -->
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-![](./profile-3d-contrib/profile-green.svg)
-![](./profile-3d-contrib/profile-season-animate.svg)
-![](./profile-3d-contrib/profile-season.svg)
-![](./profile-3d-contrib/profile-south-season-animate.svg)
-![](./profile-3d-contrib/profile-south-season.svg)
-![](./profile-3d-contrib/profile-night-view.svg)
-![](./profile-3d-contrib/profile-night-green.svg)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
