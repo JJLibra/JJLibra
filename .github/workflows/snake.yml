@@ -28,4 +28,4 @@ jobs:
           build_dir: dist
           keep_history: true
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
