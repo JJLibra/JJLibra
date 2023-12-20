@@ -45,7 +45,7 @@
 
 ### 👨‍🎓 About Me
 
-<img align="right" width="88" src="https://www.freeimg.cn/i/2023/12/17/657ee6859efc1.jpg" />
+<img align="right" width="88" src="https://www.freeimg.cn/i/2023/12/17/657ee6859efc1.jpg" style="max-width: 100%;"/>
 
 <p>&emsp;&emsp;大家好，我是小李(xxfer)。</p>
 <p>&emsp;&emsp;热爱编程、二次元、diy、电影、追番。</p>
