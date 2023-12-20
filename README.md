@@ -49,7 +49,7 @@
 
 <p>&emsp;&emsp;大家好，我是小李(xxfer)。</p>
 <p>&emsp;&emsp;热爱编程、二次元、diy、电影、追番。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，励志成为一名优秀的开发者。(目前是一名网络安全小彩笔)</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;这个世界上本就没有真正的强者，有的只有想要变强的人。努力变强，凭心挥剑。</p>
 <p><strong>&emsp;&emsp;There are no real strong people in this world, only people who want to become stronger.</strong></p>
 
