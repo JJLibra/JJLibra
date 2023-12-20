@@ -347,7 +347,6 @@ Mac                      19 hrs 10 mins      ███████████�
 ![](./profile-3d-contrib/profile-night-view.svg)
 ![](./profile-3d-contrib/profile-night-green.svg)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 <!-- just img 图片 -->
