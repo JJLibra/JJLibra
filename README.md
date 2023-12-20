@@ -338,13 +338,17 @@ Mac                      19 hrs 10 mins      ███████████�
 <!-- just img 图片 -->
 <!--<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /> -->
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ljjbyzju/ljjbyzju/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ljjbyzju/ljjbyzju/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ljjbyzju/ljjbyzju/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-season.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-south-season.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
