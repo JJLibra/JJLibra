@@ -88,15 +88,13 @@ Here are some ideas to get you started:
 
 </td></tr>
 <tr><td>
-<h3 dir="auto"><a id="user-content--second-brain" class="anchor" aria-hidden="true" tabindex="-1" href="#-second-brain"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🧠 Second Brain</h3>
+<h3 dir="auto"><a id="user-content--second-brain" class="anchor" aria-hidden="true" tabindex="-1" href="#-second-brain"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🧠 CTF Tournament</h3>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/39f1b5dc655d4a06115d3cb872e63a88cd860e84835b9df3dd4f20d7587cc6ab/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f746563686e6f6c6f676973742e706e67"><img align="right" width="88" src="https://camo.githubusercontent.com/39f1b5dc655d4a06115d3cb872e63a88cd860e84835b9df3dd4f20d7587cc6ab/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f746563686e6f6c6f676973742e706e67" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" style="max-width: 100%;"></a>
 
 <ul dir="auto">
-<li><a href="https://brain.sunguoqi.com/web/frontend/tools/git/git.html" rel="nofollow">Git</a> - 2023-12-08</li>
-<li><a href="https://brain.sunguoqi.com/web/frontend/tools/package-manage/npm.html" rel="nofollow">npm</a> - 2023-09-07</li>
-<li><a href="https://brain.sunguoqi.com/web/frontend/tools/package-manage/pnpm.html" rel="nofollow">pnpm</a> - 2023-09-07</li>
-<li><a href="https://brain.sunguoqi.com/web/frontend/tools/package-manage/yarn.html" rel="nofollow">yarn</a> - 2023-09-07</li>
-<li><a href="https://brain.sunguoqi.com/web/frontend/tools/vscode/vscode.html" rel="nofollow">Vscode 权威指南</a> - 2023-12-08</li>
+<li><a href="https://brain.sunguoqi.com/web/frontend/tools/git/git.html" rel="nofollow">西北工业大学第一届网络空间安全实验技能赛</a> - 2023-06-15</li>
+<li><a href="https://xxfer.cn/posts/797d.html" rel="nofollow">西北工业大学“探索解密，趣味密码”竞赛</a> - 2023-09-23</li>
+<li><a href="https://xxfer.cn/posts/3405.html" rel="nofollow">西北工业大学第三届网络空间安全挑战赛</a> - 2023-10-13</li>
 </ul>
 
 </td></tr>
