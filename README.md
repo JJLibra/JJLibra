@@ -20,7 +20,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://xxfer.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://mp.xxfer.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/1327183873/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
@@ -40,79 +40,6 @@
 #  🙋 Welcome
 
 <table>
-
-<tr><td>
-
-### 👨‍🎓 About Me
-
-<img align="right" width="88" src="https://www.freeimg.cn/i/2023/12/17/657ee6859efc1.jpg" style="max-width: 100%;"/>
-
-<p>&emsp;&emsp;大家好，我是小李(xxfer)。</p>
-<p>&emsp;&emsp;热爱编程、二次元、diy、电影、追番。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;这个世界上本就没有真正的强者，有的只有想要变强的人。努力变强，凭心挥剑。</p>
-<p><strong>&emsp;&emsp;There are no real strong people in this world, only people who want to become stronger.</strong></p>
-
-</td></tr>
-
-<tr><td>
-
-### 🏫 Academic Experience
-
-- [西北工业大学](https://www.nwpu.edu.cn/) &emsp; 📌 2021-08-19 —— Now
-  - 学院：网络空间安全学院
-  - 专业：网络空间安全
-
-</td></tr>
-
-<tr><td>
-
-### 📃 Recent Blog
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://xxfer.cn/about/' target='_blank'>关于我的博客</a> - 2023-12-18
-* <a href='https://xxfer.cn/posts/797d.html' target='_blank'>“探索・解密” 趣味密码竞赛</a> - 2023-11-05
-* <a href='https://xxfer.cn/posts/422b.html' target='_blank'>第三届网络空间安全挑战赛 - Web</a> - 2023-10-28
-* <a href='https://xxfer.cn/posts/3405.html' target='_blank'>第三届网络空间安全挑战赛 - Misc</a> - 2023-10-28
-* <a href='https://xxfer.cn/posts/b4bc7df4.html' target='_blank'>SQL Injection Fundamentals</a> - 2023-10-28
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 CTF Tournament
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-
-* <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>西北工业大学第一届网络空间安全实验技能赛</a> - 2023-06-15
-* <a href='https://xxfer.cn/posts/797d.html' target='_blank'>西北工业大学“探索解密，趣味密码”竞赛</a> - 2023-09-23
-* <a href='https://xxfer.cn/posts/3405.html' target='_blank'>西北工业大学第三届网络空间安全挑战赛</a> - 2023-10-13
-  <!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
-
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
-
-<tr><td>
 
 ### 📊 WakaTime
 
