@@ -1,12 +1,11 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://xxfer.cn/">
+    <a href="https://blog.xxfer.cn/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小李今天又在努力变强鸭~&center=true&size=27" />
     </a>
   </div>
 
-  <h1 align="center">Hi 👋, I'm 小李同学.</h1>
   <h3 align="center">👤 A developer and student of NWPU 🏨</h3>
 
   <!-- welcome to my profile  -->
