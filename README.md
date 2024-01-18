@@ -169,6 +169,7 @@
 ![photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
 ![premiere](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![GitHub copilot](https://img.shields.io/badge/GitHubCopilot-000000?logo=githubcopilot&logoColor=fff&style=flat)
 
 </td>
 </tr>
