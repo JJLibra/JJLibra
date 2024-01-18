@@ -92,10 +92,10 @@
   <table>
     <tr>
       <td>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ljjbyzju&theme=radical&show_icons=true&count_private=true" />
+        <img height="180px" width="100%" src="https://github-readme-stats.vercel.app/api?username=ljjbyzju&theme=radical&show_icons=true&count_private=true" />
       </td>
     <td>
-      <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljjbyzju&theme=radical&show_icons=true&count_private=true" /></td>
+      <img height="180px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljjbyzju&theme=radical&show_icons=true&count_private=true" /></td>
     </tr>
   </table>
 </div>
