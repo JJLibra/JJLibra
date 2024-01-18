@@ -79,8 +79,11 @@
 
 - 📫 How to reach me :
 
+<a href="https://xxfer.cn/"><img src="https://img.shields.io/badge/xxfer.cn-8C5AFF?logo=webrtc&logoColor=white" /></a>
 <a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/blog.xxfer.cn-004788?logo=blogger&logoColor=white" /></a>
-<a href="https://2021303114@mail.nwpu.edu.cn/"><img src="https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>&emsp;
+<a href="https://2021303114@mail.nwpu.edu.cn/"><img src="https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>
+<!-- visitor statistics logo 访问量统计徽标 -->
+<img src="https://komarev.com/ghpvc/?username=ljjbyzju&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
 </tr>
 </td>
