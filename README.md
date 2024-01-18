@@ -72,10 +72,8 @@
 
 - 📫 How to reach me :
 
-![outlook](https://img.shields.io/badge/weizixiang0@outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)
-![school](https://img.shields.io/badge/weizixiang0@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white)
-![Steam](https://img.shields.io/badge/Karenina--na-000000?logo=steam&logoColor=white)
-![WakaTime](https://img.shields.io/badge/@Karenina_na-000000?logo=wakatime&logoColor=white)
+<a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+![school](https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white)
 
 </tr>
 </td>
