@@ -1,10 +1,10 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
-  <!-- <div>
+  <div>
     <a href="https://blog.xxfer.cn/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小李今天又在努力变强鸭~&center=true&size=27" />
     </a>
-  </div> -->
+  </div>
 
   <h3 align="center">👤 A developer and student of NWPU 🏨</h3>
 
@@ -138,13 +138,7 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<!-- GitHub metrics 信息指标 -->
-
-<!--<div align="center">-->
-<!-- just img 图片 -->
-<!--<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /> -->
-<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
+<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <table>
 <tr>
