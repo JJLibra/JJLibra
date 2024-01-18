@@ -23,7 +23,7 @@
   </picture>
 </div>
 
-### 🎍 You are my ![Visitor Count](https://profile-counter.glitch.me/Karenina-na/count.svg) visitor, Thank you! 👑👑👑
+### 🎍 You are my ![Visitor Count](https://profile-counter.glitch.me/LJJbyZJU/count.svg) visitor, Thank you! 👑👑👑
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
