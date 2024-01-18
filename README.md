@@ -79,7 +79,7 @@
 <tr>
 <td>
 
-- 📫 How to reach me :
+- 📫 How to reach me : <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
 <a href="https://xxfer.cn/"><img src="https://img.shields.io/badge/xxfer.cn-8C5AFF?logo=webrtc&logoColor=white" /></a>
 <a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/blog.xxfer.cn-004788?logo=blogger&logoColor=white" /></a>
