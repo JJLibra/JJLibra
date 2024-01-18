@@ -165,7 +165,7 @@
 <div align="center" >
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=py,vscode,linux,qt,androidstudio,docker,anaconda,git,github,githubactions" /><br>
+<img src="https://skillicons.dev/icons?i=py,devto,vscode,linux,bash,powershell,qt,androidstudio,docker,anaconda,git,github,githubactions,matlab" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
