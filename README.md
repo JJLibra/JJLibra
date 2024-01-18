@@ -330,12 +330,6 @@ Vue                      3 repos             ██░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
-
-
  Last Updated on 17/01/2024 18:36:09 UTC
 <!--END_SECTION:waka-->
 
