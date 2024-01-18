@@ -217,6 +217,21 @@
 </p>
 </table>
 
+<table>
+<tr>
+  <td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=radical&layout=compact"\>
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"/>
+  </picture>
+  </td>
+  <td width="50%">
+  <img src="https://wakatime.com/share/@Karenina_na/7f1e138b-7495-472e-a713-868bce3d33da.svg">
+  <img src="https://wakatime.com/share/@Karenina_na/46b71b41-e290-4376-843a-0584f035e137.svg">
+  </td>
+</tr>
+</table>
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
