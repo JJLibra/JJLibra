@@ -49,11 +49,6 @@
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
 </div>
-<!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-<table>
-<tr>
-<td>
 
 ### 📈 Github Stats
 <!-- GitHub 奖杯🏆 -->
