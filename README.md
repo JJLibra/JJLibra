@@ -53,45 +53,10 @@
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
 </div>
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ljjbyzju&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ljjbyzju&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ljjbyzju&theme=default&hide_border=true" />
-</picture> -->
-
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
-<!-- just img 图片 -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" /> -->
-
 <!-- Quotes 名人名言 -->
-
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-
-<!-- GitHub 奖杯🏆 -->
-
-<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
 
 <table>
 <tr>
@@ -99,6 +64,7 @@
 
 ### 📈 Github Stats
 
+<!-- GitHub 奖杯🏆 -->
 <div align="center" width="190%">
   <img alig src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=juicyfresh&column=9&rank=-U"/>
 </div>
@@ -107,13 +73,17 @@
 </tr>
 </table>
 
+<!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
-  <tr>
-    <td>
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&custom_title=小李的%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true"/>
-    </td>
-  </tr>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&custom_title=小李的%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&theme=xcode&bg_color=FF000000&hide_border=true" />
+        </picture>
+    </tr>
   </table>
 </div>
 
