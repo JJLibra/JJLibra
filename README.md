@@ -16,10 +16,14 @@
   </p>
 </div>
 
-<!-- quotes -->
+<!-- quotes <img align="center" width="60%" height="160px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" /> -->
 <p align="center">
   <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
-  <img align="center" width="60%" height="160px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ljjbyzju&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ljjbyzju&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=default&hide_border=true" />
+</picture>
   <img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 </p>
 <!-- ########################################## 分割 ########################################## -->
