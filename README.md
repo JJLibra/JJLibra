@@ -41,10 +41,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<div align="center">
-<!-- run 图片 -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" /> -->
-
 <!-- Joke 笑话 -->
 <div>
   <picture>
@@ -53,17 +49,13 @@
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
 </div>
-
-<div align="center" >
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-
 <table>
 <tr>
 <td>
 
 ### 📈 Github Stats
-
 <!-- GitHub 奖杯🏆 -->
 <div align="center" width="190%">
   <img alig src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=juicyfresh&column=9&rank=-U"/>
@@ -72,7 +64,6 @@
 </td>
 </tr>
 </table>
-
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
@@ -85,7 +76,6 @@
     </tr>
   </table>
 </div>
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
@@ -99,9 +89,7 @@
     </tr>
   </table>
 </div>
-
 <!-- Wakatime Graph-->
-
 <table>
   <tr>
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
