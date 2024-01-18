@@ -70,7 +70,7 @@
 <tr>
 <td>
 
-- 📫 How to reach me :
+- <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Minutemailer</title><path d="M17.187 19.181L24 4.755 0 12.386l9.196 1.963.043 4.896 2.759-2.617-2.147-2.076 7.336 4.63z"/></svg> How to reach me :
 
 <a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/blog.xxfer.cn-000000?logo=blogger&logoColor=white" /></a>
 ![school](https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white)
