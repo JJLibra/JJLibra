@@ -16,7 +16,12 @@
   </p>
 </div>
 
-<!-- quotes <img align="center" width="60%" height="160px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" /> -->
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+### 📈 Github Stats
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <p align="center">
   <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
   <picture>
@@ -26,19 +31,12 @@
 </picture>
   <img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 </p>
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-### 📈 Github Stats
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center" width="190%">
   <img alig src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=juicyfresh&column=9&rank=-U"/>
 </div>
 
-</td>
-</tr>
-</table>
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
