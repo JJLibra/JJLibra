@@ -12,9 +12,7 @@
     <img src="./assert/Bottom_up.svg" width="86%">
     <img src="./assert/animated-flame-01.gif" width="5.5%" align="right"/>
   </p>
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+</div>
 
 #  🙋 Welcome
 <!-- ########################################## 分割 ########################################## -->
