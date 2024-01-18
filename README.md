@@ -43,10 +43,8 @@
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-<img src="https://github.com/LJJbyZJU/LJJbyZJU/blob/main/github-metrics/base.svg" />
-<!-- https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/base.svg -->
+<img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
-
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center" width="190%">
@@ -337,6 +335,35 @@ Vue                      3 repos             ██░░░░░░░░░�
 
  Last Updated on 17/01/2024 18:36:09 UTC
 <!--END_SECTION:waka-->
+
+<!-- metrics 信息栏2 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+  </tr>
+</table>
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
