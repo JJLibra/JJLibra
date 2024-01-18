@@ -21,7 +21,7 @@
 <!-- quotes -->
 <p align="center">
   <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
-  <img align="center" width="60%" height="180px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+  <img align="center" width="60%" height="150px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
   <img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 </p>
 
