@@ -6,6 +6,9 @@
     </a>
   </div>
 
+  <h1 align="center">Hi 👋, I'm 小李同学.</h1>
+  <h3 align="center">👤 A developer and student of NWPU 🏨</h3>
+
   <!-- welcome to my profile  -->
   <p align="center">
     <img src="./assert/animated-flame-01.gif" width="5.5%" align="left"/>
@@ -13,8 +16,6 @@
     <img src="./assert/animated-flame-01.gif" width="5.5%" align="right"/>
   </p>
 </div>
-
-#  🙋 Welcome
 
 <!-- quotes -->
 <p align="center">
