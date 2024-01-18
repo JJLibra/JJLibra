@@ -79,16 +79,14 @@
 <tr>
 <td>
 
-- 📫 How to reach me : <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+- 📫 How to reach me :
 
 <a href="https://xxfer.cn/"><img src="https://img.shields.io/badge/xxfer.cn-8C5AFF?logo=webrtc&logoColor=white" /></a>
 <a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/blog.xxfer.cn-004788?logo=blogger&logoColor=white" /></a>
 <a href="https://www.zhihu.com/people/shi-shi-88-90-43"><img src="https://img.shields.io/badge/zhihu-0084FF?logo=zhihu&logoColor=white" /></a>
 <a href="https://space.bilibili.com/1327183873/"><img src="https://img.shields.io/badge/Bilibili-FF5CAA?logo=bilibili&logoColor=white" /></a>
 <a href="telephone：18072988138"><img src="https://img.shields.io/badge/Wechat-07C160?logo=Wechat&logoColor=white" /></a>
-<a href="https://2021303114@mail.nwpu.edu.cn/"><img src="https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>&emsp;
-<!-- visitor statistics logo 访问量统计徽标 -->
-<!-- <img src="https://komarev.com/ghpvc/?username=ljjbyzju&label=Views&color=0e75b6&style=flat" alt="访问量统计" /> -->
+<a href="https://2021303114@mail.nwpu.edu.cn/"><img src="https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>&emsp;<!-- visitor statistics logo 访问量统计徽标 --><img src="https://komarev.com/ghpvc/?username=ljjbyzju&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </tr>
 </td>
 <tr>
