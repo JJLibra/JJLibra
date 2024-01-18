@@ -91,7 +91,44 @@
 
 <!-- GitHub 奖杯🏆 -->
 
-<div><img src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
+
+<table>
+<tr>
+<td>
+
+### 📈 Github Stats
+
+<div align="center" width="190%">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=juicyfresh&column=9&rank=-U"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center" style="display: flex;justify-content: center;align-items: center;">
+  <table>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karenina-na&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karenina-na/Karenina-na/output/github-contribution-grid-snake.svg" width="100%">
+    </td>
+  </tr>
+</p>
+  </table>
+</div>
 
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ljjbyzju&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -111,9 +148,6 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
-<!-- just img 图片 -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" /> -->
-
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
