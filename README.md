@@ -19,7 +19,7 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-### 📈 Github Stats
+### 📈 Github Status
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <p align="center">
@@ -97,7 +97,8 @@
 
 🧰 常用的工具
 
-![Xiaomi Badge](https://img.shields.io/badge/Huawei-FF3232?logo=huawei&logoColor=fff&style=flat)
+![Huawei Badge](https://img.shields.io/badge/Huawei-FF3232?logo=huawei&logoColor=fff&style=flat)
+![阿里云 Badge](https://img.shields.io/badge/%E9%98%BF%E9%87%8C%E4%BA%91-FF6A00?logo=alibabacloud&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
