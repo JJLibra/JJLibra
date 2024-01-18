@@ -225,7 +225,7 @@
   <td width="50%">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=radical&layout=compact&hide_border=true&hide_title=true&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
