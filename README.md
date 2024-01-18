@@ -23,6 +23,8 @@
   </picture>
 </div>
 
+### 🎍 You are my ![Visitor Count](https://profile-counter.glitch.me/Karenina-na/count.svg) visitor, Thank you! 👑👑👑
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -83,8 +85,7 @@
 <a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/blog.xxfer.cn-004788?logo=blogger&logoColor=white" /></a>
 <a href="https://2021303114@mail.nwpu.edu.cn/"><img src="https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>&emsp;
 <!-- visitor statistics logo 访问量统计徽标 -->
-<img src="https://komarev.com/ghpvc/?username=ljjbyzju&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-
+<!-- <img src="https://komarev.com/ghpvc/?username=ljjbyzju&label=Views&color=0e75b6&style=flat" alt="访问量统计" /> -->
 </tr>
 </td>
 <tr>
