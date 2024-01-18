@@ -46,8 +46,6 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 
-![Metrics](https://metrics.lecoq.io/LJJbyZJU?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
 <!-- GitHub 奖杯🏆 -->
 <div align="center" width="190%">
   <img alig src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=juicyfresh&column=9&rank=-U"/>
