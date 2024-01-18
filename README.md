@@ -255,6 +255,9 @@
 
 <table>
 <tr>
+  <td><img src="./assets/images/rocket.png"/></td>
+</tr>
+<tr>
   <td><img src="./assert/header_.png"/></td>
 </tr>
 <tr>
