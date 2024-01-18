@@ -144,7 +144,7 @@
 - 🧰 Environment :
 
 ![Huawei](https://img.shields.io/badge/Huawei-FF3232?logo=huawei&logoColor=fff&style=flat)
-![阿里云](https://img.shields.io/badge/%E9%98%BF%E9%87%8C%E4%BA%91-FF6A00?logo=alibabacloud&logoColor=fff&style=flat)
+![ECS](https://img.shields.io/badge/aliyun-ECS-FF6A00?logo=alibabacloud&logoColor=fff&style=flat)
 ![lenovo](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
