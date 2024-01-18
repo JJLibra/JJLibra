@@ -38,3 +38,32 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 8
           plugin_starlists_only: Awesome
+
+          # 📅 Isometric commit calendar
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # 不添加基础信息
+          base: ""
+          # 使用此插件
+          plugin_isocalendar: yes
+          # 设置成显示整年
+          plugin_isocalendar_duration: full-year
+
+      # 🈷️ Languages activity
+      - name: Indepth analysis
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/languages.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_limit: 4
+          plugin_languages_analysis_timeout: 15
