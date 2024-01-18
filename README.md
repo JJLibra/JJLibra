@@ -254,8 +254,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
