@@ -72,8 +72,7 @@
 
 - 📫 How to reach me :
 
-<a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/blog.xxfer.cn-004788?logo=blogger&logoColor=white" /></a>
-
+<a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/blog.xxfer.cn-004788?logo=blogger&logoColor=white" /></a>&emsp;
 ![school](https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white)
 
 </tr>
