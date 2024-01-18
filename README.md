@@ -97,7 +97,7 @@
 
 🧰 常用的工具
 
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
+![Xiaomi Badge](https://img.shields.io/badge/Huawei-FF3232?logo=huawei&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
@@ -132,12 +132,12 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
-<!-- profile-3d-contrib 3D贡献图-->
-
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<!-- 博客仓库记录 -->
 <img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" />
 
 <table>
