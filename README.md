@@ -258,9 +258,6 @@
   <td><img src="./assets/images/rocket.png"/></td>
 </tr>
 <tr>
-  <td><img src="./assert/header_.png"/></td>
-</tr>
-<tr>
   <td><img src="./assert/Bottom_down.svg"/></td>
 </tr>
 </table>
