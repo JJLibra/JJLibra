@@ -9,9 +9,9 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: sun0225SUN/Social-Readme@main
+      - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://blog.xxfer.cn/atom.xml
+          blog_rss_link: https://ljjbyzju.github.io/atom.xml
           blog_limit: 6 # blog数量
           douban_name: xxfer
           douban_limit: 6 # 豆瓣最新动态数量
