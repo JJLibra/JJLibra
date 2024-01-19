@@ -1,19 +1,15 @@
-name: Social Readme
-
+name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 16 * * *'
-  workflow_dispatch:
-
+    - cron: "0 16 * * *"
+    
 jobs:
-  update-readme:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: sun0225SUN/Social-Readme@main
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          blog_rss_link: https://blog.sunguoqi.com/rss.xml
-          blog_limit: 5 # blog数量
-          douban_name: sunguoqi
-          douban_limit: 5 # 豆瓣最新动态数量
-          commit_message: Updated social rss by social-readme # commit说明
-          
+          max_post_count: "5" # 获取几条链接
+          feed_list: "https://no5972.moe/cms/feed.xml" # 改成博客订阅的地址，以RSS格式或者Atom格式输出的
