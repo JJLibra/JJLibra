@@ -1,4 +1,4 @@
-name: Latest douban
+name: Social Readme
 
 on:
   schedule:
