@@ -12,7 +12,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: sun0225SUN/Social-Readme@main
+      - uses: zylele/social-readme@master
         with:
           douban_name: sunguoqi
           douban_limit: 5 # 豆瓣最新动态数量
