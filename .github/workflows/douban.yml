@@ -5,6 +5,9 @@ on:
     - cron: '0 16 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write # To write the generated contents to the readme
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
