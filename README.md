@@ -74,10 +74,12 @@
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
+    <tr>
     <!-- GitHub 奖杯🏆 -->
     <div align="center" width="190%">
       <img alig src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=juicyfresh&column=9&rank=-U"/>
     </div>
+    </tr>
     <tr>
       <td>
         <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=ljjbyzju&theme=radical&show_icons=true&count_private=true" />
