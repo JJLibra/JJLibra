@@ -257,22 +257,6 @@
 ### Wakatime Status 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2057%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 439.3 kB Used in GitHub's Storage 
- > 
-> 🏆 250 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -309,33 +293,12 @@ CSS                      3 mins              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  22 hrs 19 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-blog                     16 hrs 15 mins      ██████████████████░░░░░░░   72.82 % 
-LJJbyZJU                 5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-Karenina-na              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-
 💻 Operating System: 
 Windows                  22 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/LJJbyZJU/LJJbyZJU/main/assets/bar_graph.png)
-
-
- Last Updated on 19/01/2024 08:57:30 UTC
+ Last Updated on 19/01/2024 09:02:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- metrics 信息栏2 -->
