@@ -37,6 +37,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
+- [反向代理神器：Nginx Proxy Manager](https://blog.xxfer.cn/posts/79f9b780.html)
+- [Picsur imgur：docker部署简单易管理的图床项目](https://blog.xxfer.cn/posts/4c41eeca.html)
+- [npm自建免费图床方案](https://blog.xxfer.cn/posts/a008ab16.html)
+- [jsDelivr自建免费图床方案](https://blog.xxfer.cn/posts/92211228.html)
+- [我的CDN使用与防护方案：如何减少流量损失，应对恶意刷流量？](https://blog.xxfer.cn/posts/7c372084.html)
 <!-- BLOG-POST-LIST:END -->
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
