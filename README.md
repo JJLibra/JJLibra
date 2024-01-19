@@ -75,12 +75,10 @@
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
     <tr>
-    <td>
-    <!-- GitHub 奖杯🏆 -->
-    <div align="center" width="190%">
-      <img alig src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=juicyfresh&column=9&rank=-U"/>
-    </div>
-    </td>
+      <td>
+        <!-- GitHub 奖杯🏆 -->
+        <img alig src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=juicyfresh&column=9&rank=-U"/>
+      </td>
     </tr>
     <tr>
       <td>
