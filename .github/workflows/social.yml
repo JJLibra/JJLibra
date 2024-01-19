@@ -9,11 +9,11 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: sun0225SUN/Social-Readme@main
         with:
-          blog_rss_link: https://ljjbyzju.github.io/atom.xml
-          blog_limit: 6 # blog数量
-          douban_name: xxfer
-          douban_limit: 6 # 豆瓣最新动态数量
+          blog_rss_link: https://blog.sunguoqi.com/rss.xml
+          blog_limit: 5 # blog数量
+          douban_name: sunguoqi
+          douban_limit: 5 # 豆瓣最新动态数量
           commit_message: Updated social rss by social-readme # commit说明
           
