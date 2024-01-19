@@ -108,8 +108,7 @@
         <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=ljjbyzju&theme=radical&show_icons=true&count_private=true" />
       </td>
     <td>
-    <!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljjbyzju&theme=radical&show_icons=true&count_private=true&layout=compact -->
-      <img height="190px" width="100%" src="https://stats.justsong.cn/api/bilibili/?id=1327183873&theme=dark" /></td>
+      <img height="190px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljjbyzju&theme=radical&show_icons=true&count_private=true&layout=compact" /></td>
     </tr>
   </table>
 </div>
@@ -390,7 +389,7 @@ Windows                  22 hrs 19 mins      ███████████�
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /><img height="190px" width="100%" src="https://stats.justsong.cn/api/bilibili/?id=1327183873&theme=dark" /></td>
   </tr>
 </table>
 
