@@ -36,6 +36,9 @@
   
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/astronaut.png" />
 
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
+
 <!-- BLOG-POST-LIST:START -->
 - [反向代理神器：Nginx Proxy Manager](https://blog.xxfer.cn/posts/79f9b780.html)
 - [Picsur imgur：docker部署简单易管理的图床项目](https://blog.xxfer.cn/posts/4c41eeca.html)
