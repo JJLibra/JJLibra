@@ -313,8 +313,8 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/hr.gif" />
 
-<table width="100%">
-<tr><td>
+<table>
+<tr width="100%"><td>
 
 ### 📊 Wakatime Status
 
