@@ -77,6 +77,18 @@
   </table>
 </div>
 
+<div align="center">
+  <!-- profile-3d-contrib 3D贡献图-->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-3d-contrib/profile-gitblock.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+
+  <!-- 博客仓库记录 -->
+  <img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" />
+</div>
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -333,15 +345,6 @@ Windows                  22 hrs 19 mins      ███████████�
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
-<!-- profile-3d-contrib 3D贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
-<!-- 博客仓库记录 -->
-<img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" />
 
 <table>
 <tr>
