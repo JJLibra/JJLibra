@@ -43,8 +43,26 @@
 * <a href='https://blog.sunguoqi.com/posts/e7213992/' target='_blank'>小孙同学 の 第二大脑正在施工中。。。</a> - 2023-03-26
 * <a href='https://blog.sunguoqi.com/posts/abe837db/' target='_blank'>奔跑在自己的时区里，你好哇，我的 22 岁！</a> - 2023-02-25
 <!-- END_SECTION:blog -->
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 </td>
 </tr>
+
+<tr><td>
+
+### 🤾‍♂️ Funny Soul
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+
+<!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
+* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+<!-- END_SECTION:douban -->
+
+</td></tr>
 
 <tr>
 <td>
