@@ -313,9 +313,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/hr.gif" />
 
-<table>
-<tr width="100%"><td>
-
 ### 📊 Wakatime Status
 
 <!--START_SECTION:waka-->
@@ -362,9 +359,6 @@ Windows                  22 hrs 19 mins      ███████████�
 
  Last Updated on 19/01/2024 09:02:39 UTC
 <!--END_SECTION:waka-->
-
-</td></tr>
-</table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/hr.gif" />
