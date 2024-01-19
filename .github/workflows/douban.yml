@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          douban_name: sunguoqi
+          douban_name: xxferyyds
           douban_limit: 5 # 豆瓣最新动态数量
           commit_message: Updated douban # commit说明
           
