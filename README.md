@@ -311,7 +311,10 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/hr.gif" />
 
-### Wakatime Status 📊
+<table>
+<tr><td>
+
+### 📊 Wakatime Status
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -357,6 +360,9 @@ Windows                  22 hrs 19 mins      ███████████�
 
  Last Updated on 19/01/2024 09:02:39 UTC
 <!--END_SECTION:waka-->
+
+</td></tr>
+</table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/hr.gif" />
