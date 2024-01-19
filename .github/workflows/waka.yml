@@ -1,21 +1,18 @@
-name: Waka-Time-Readme
+name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
-  pages: write
-
+  
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     environment: 
       name: GH_TOKEN
+    permissions:
+      contents: write
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
