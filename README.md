@@ -389,7 +389,7 @@ Windows                  22 hrs 19 mins      ███████████�
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /><img height="190px" width="100%" src="https://stats.justsong.cn/api/bilibili/?id=1327183873&theme=dark" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /><img src="https://stats.justsong.cn/api/bilibili/?id=1327183873&theme=dark" /></td>
   </tr>
 </table>
 
