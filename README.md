@@ -31,6 +31,7 @@
 <table>
 <tr>
 <td>
+
 ### 📃 Recent Blog
   
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/astronaut.png" />
@@ -42,6 +43,11 @@
 * <a href='https://blog.sunguoqi.com/posts/e7213992/' target='_blank'>小孙同学 の 第二大脑正在施工中。。。</a> - 2023-03-26
 * <a href='https://blog.sunguoqi.com/posts/abe837db/' target='_blank'>奔跑在自己的时区里，你好哇，我的 22 岁！</a> - 2023-02-25
 <!-- END_SECTION:blog -->
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 📈 Github Status
 
