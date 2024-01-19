@@ -28,6 +28,9 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/hr.gif" />
 
+<table>
+<tr>
+<td>
 ### 📃 Recent Blog
   
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/astronaut.png" />
@@ -57,6 +60,10 @@
 <img width="150" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/cxyduck.gif" />
+
+</td>
+</tr>
+</table>
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center" width="190%">
