@@ -88,7 +88,7 @@
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/base.svg" />
+<img src="https://github.com/LJJbyZJU/LJJbyZJU/blob/main/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/cxyduck.gif" />
 
 </td>
