@@ -302,7 +302,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
     </picture>
     <picture>
-      <img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/coding.gif"/>
+      <img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/code.gif"/>
     </picture>
     </td>
     <td width="50%">
