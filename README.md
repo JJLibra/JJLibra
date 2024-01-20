@@ -15,7 +15,7 @@
     <img src="./assert/animated-flame-01.gif" width="5.5%" align="right"/>
   </p>
 
-  ### 🎍 You are my ![Visitor Count](https://profile-counter.glitch.me/LJJbyZJU/count.svg) visitor, Thank you! 👑👑👑
+  ### <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/cat.gif" /> You are my ![Visitor Count](https://profile-counter.glitch.me/LJJbyZJU/count.svg) visitor, Thank you! 👑👑👑
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
