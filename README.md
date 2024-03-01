@@ -37,12 +37,12 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='https://blog.xxfer.cn/posts/a450d722.html' target='_blank'>免费WAF：长亭雷池社区版，给站点再加道防护！</a> - 2024-03-01
 * <a href='https://blog.xxfer.cn/posts/b10237dc.html' target='_blank'>利用Docker部署宝塔面板</a> - 2024-02-25
 * <a href='https://blog.xxfer.cn/posts/86bbdefa.html' target='_blank'>GitHub首页DIY：花里胡哨指数++</a> - 2024-01-20
 * <a href='https://blog.xxfer.cn/posts/79f9b780.html' target='_blank'>反向代理神器：Nginx Proxy Manager</a> - 2024-01-17
 * <a href='https://blog.xxfer.cn/posts/4c41eeca.html' target='_blank'>Picsur imgur：docker部署简单易管理的图床项目</a> - 2024-01-15
 * <a href='https://blog.xxfer.cn/posts/a008ab16.html' target='_blank'>npm自建免费图床方案</a> - 2024-01-09
-* <a href='https://blog.xxfer.cn/posts/92211228.html' target='_blank'>jsDelivr自建免费图床方案</a> - 2024-01-08
 <!-- END_SECTION:blog -->
 
 <!-- for beauty 留个空行好看点 -->
