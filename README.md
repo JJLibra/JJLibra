@@ -15,18 +15,18 @@
     <img src="./assert/animated-flame-01.gif" width="5.5%" align="right"/>
   </p>
 
-  ### <img width="5%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/cat.gif" /> You are my ![Visitor Count](https://profile-counter.glitch.me/LJJbyZJU/count.svg) visitor, Thank you!
+  ### <img width="5%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cat.gif" /> You are my ![Visitor Count](https://profile-counter.glitch.me/JJLibra/count.svg) visitor, Thank you!
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 <table>
 <tr>
@@ -34,7 +34,7 @@
 
 ### 📃 Recent Blog
   
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/astronaut.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.xxfer.cn/posts/cbd4b5ab.html' target='_blank'>最近</a> - 2024-03-21
@@ -77,19 +77,19 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <p align="center">
-  <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/left.png" />
+  <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/left.png" />
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ljjbyzju&theme=radical&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ljjbyzju&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LJJbyZJU&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=radical&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=default&hide_border=true" />
   </picture>
-  <img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/right.png" />
+  <img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/right.png" />
 </p>
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/cxyduck.gif" />&emsp;
-<img src="https://github.com/LJJbyZJU/LJJbyZJU/blob/main/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/cxyduck.gif" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
+<img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />
 
 </td>
 </tr>
@@ -97,7 +97,7 @@
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center" width="190%">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=juicyfresh&column=9&rank=-U"/>
+  <img alig src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
 </div>
 
 <!-- GitHub 数据统计 -->
@@ -105,10 +105,10 @@
   <table>
     <tr>
       <td>
-        <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=ljjbyzju&theme=radical&show_icons=true&count_private=true" />
+        <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
       </td>
     <td>
-      <img height="190px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljjbyzju&theme=radical&show_icons=true&count_private=true&layout=compact" /></td>
+      <img height="190px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" /></td>
     </tr>
   </table>
 </div>
@@ -118,9 +118,9 @@
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&custom_title=Xxfer's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&theme=xcode&bg_color=FF000000&hide_border=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&custom_title=Xxfer's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&theme=xcode&bg_color=FF000000&hide_border=true" />
         </picture>
     </tr>
   </table>
@@ -129,9 +129,9 @@
 <div align="center">
   <!-- profile-3d-contrib 3D贡献图-->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-3d-contrib/profile-gitblock.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-gitblock.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-night-rainbow.svg" />
   </picture>
 
   <!-- 博客仓库记录 -->
@@ -139,7 +139,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 <table>
 <tr>
@@ -152,7 +152,7 @@
 <a href="https://www.zhihu.com/people/shi-shi-88-90-43"><img src="https://img.shields.io/badge/zhihu-0084FF?logo=zhihu&logoColor=white" /></a>
 <a href="https://space.bilibili.com/1327183873/"><img src="https://img.shields.io/badge/Bilibili-FF5CAA?logo=bilibili&logoColor=white" /></a>
 <a href="telephone：18072988138"><img src="https://img.shields.io/badge/Wechat-07C160?logo=Wechat&logoColor=white" /></a>
-<a href="https://2021303114@mail.nwpu.edu.cn/"><img src="https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>&emsp;<!-- visitor statistics logo 访问量统计徽标 --><img src="https://komarev.com/ghpvc/?username=ljjbyzju&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+<a href="https://2021303114@mail.nwpu.edu.cn/"><img src="https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>&emsp;<!-- visitor statistics logo 访问量统计徽标 --><img src="https://komarev.com/ghpvc/?username=JJLibra&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </tr>
 </td>
 <tr>
@@ -263,14 +263,14 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 70px; height: 70px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/html.webp">
-<img height="96" width="96" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/react.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/github.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/html.webp">
+<img height="96" width="96" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/react.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/github.webp">
 
 </div>
 </td>
@@ -285,7 +285,7 @@
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 <table>
   <tr>
@@ -302,7 +302,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
     </picture>
     <picture>
-      <img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/coding.gif"/>
+      <img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif"/>
     </picture>
     </td>
     <td width="50%">
@@ -313,7 +313,7 @@
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 ### 📊 Wakatime Status
 
@@ -366,32 +366,32 @@ Windows                  17 hrs 20 mins      ███████████�
 <!--END_SECTION:waka-->
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 <!-- metrics 信息栏2 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>

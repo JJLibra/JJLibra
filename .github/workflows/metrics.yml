@@ -21,7 +21,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: LJJbyZJU
+          user: JJLibra
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
