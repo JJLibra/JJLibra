@@ -236,6 +236,7 @@
 ![premiere](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white)
 ![after effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Gitee](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=fff&style=flat)
 ![GitHub copilot](https://img.shields.io/badge/GitHubCopilot-000000?logo=githubcopilot&logoColor=fff&style=flat)
 
 </td>
