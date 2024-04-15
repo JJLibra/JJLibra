@@ -37,12 +37,12 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='https://blog.xxfer.cn/posts/98264b23.html' target='_blank'>浮生若梦，为欢几何？</a> - 2024-04-15
 * <a href='https://blog.xxfer.cn/posts/f3cb979.html' target='_blank'>Kerberos身份认证小结</a> - 2024-04-02
 * <a href='https://blog.xxfer.cn/posts/cbd4b5ab.html' target='_blank'>最近</a> - 2024-03-21
 * <a href='https://blog.xxfer.cn/posts/916babf0.html' target='_blank'>How do you normalize your Git commit?</a> - 2024-03-20
 * <a href='https://blog.xxfer.cn/posts/7dca2e02.html' target='_blank'>路径规划：基于QT的Astar算法演示器</a> - 2024-03-15
 * <a href='https://blog.xxfer.cn/posts/1d3d26fe.html' target='_blank'>爬虫复习记录</a> - 2024-03-15
-* <a href='https://blog.xxfer.cn/posts/e59dce9.html' target='_blank'>自用：Scrapy简单爬些漏洞POC</a> - 2024-03-08
 <!-- END_SECTION:blog -->
 
 <!-- for beauty 留个空行好看点 -->
