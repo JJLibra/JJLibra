@@ -198,6 +198,7 @@
 ![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=flat)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
 </td>
@@ -231,6 +232,7 @@
 ![datagrip](https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white)
 ![clion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![apifox](https://img.shields.io/badge/Apifox-F44A53?logo=apifox&logoColor=white)
 ![vmware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
 ![photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
 ![premiere](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white)
