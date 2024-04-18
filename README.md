@@ -224,6 +224,8 @@
 ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![vstudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
+![obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff&style=flat)
 ![idea](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
 ![pycharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
 ![goland](https://img.shields.io/badge/GoLand-000000?logo=goland&logoColor=white)
