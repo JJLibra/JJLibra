@@ -209,7 +209,7 @@
 - 🧰 Environment :
 
 ![Huawei](https://img.shields.io/badge/Huawei-FF3232?logo=huawei&logoColor=fff&style=flat)
-![ECS](https://img.shields.io/badge/aliyun-ECS-FF6A00?logo=alibabacloud&logoColor=fff&style=flat)
+![ECS](https://img.shields.io/badge/aliyunECS-FF6A00?logo=alibabacloud&logoColor=fff&style=flat)
 ![lenovo](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![Chatgpt](https://img.shields.io/badge/GPT4o-412991?logo=openai&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
