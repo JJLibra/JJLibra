@@ -58,11 +58,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/1437909/' target='_blank'>看过梦想奔驰</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/1307535/' target='_blank'>看过奔腾年代</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/27060077/' target='_blank'>看过绿皮书</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/27107140/' target='_blank'>看过我想吃掉你的胰脏</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/1849031/' target='_blank'>看过当幸福来敲门</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
+
 <!-- END_SECTION:douban -->
 
 <!-- for beauty 留个空行好看点 -->
