@@ -374,7 +374,7 @@ Windows                  51 hrs 59 mins      ███████████�
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 <!-- metrics 信息栏2 -->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/reactions.svg" alt="reactions" /></td>
@@ -401,15 +401,15 @@ Windows                  51 hrs 59 mins      ███████████�
   </tr>
 </table>
 
-<div align="center" >
+<div align="center" > -->
 
 <table>
 <tr>
   <td><img src="./assets/images/rocket.png"/></td>
 </tr>
-<tr>
+<!-- <tr>
   <td><img src="./assert/Bottom_down.svg"/></td>
-</tr>
+</tr> -->
 </table>
 
 </div>
