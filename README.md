@@ -126,17 +126,17 @@
   </table>
 </div>
 
-<div align="center">
+<!-- <div align="center"> -->
   <!-- profile-3d-contrib 3D贡献图-->
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-gitblock.svg" />
     <img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-night-rainbow.svg" />
-  </picture>
+  </picture> -->
 
   <!-- 博客仓库记录 -->
-  <img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" />
-</div>
+  <!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" /> -->
+<!-- </div> -->
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
@@ -283,15 +283,15 @@
 </tr>
 </table>
 
-<table>
+<!-- <table>
 <p width="100%" align="center">
   <img align="left" src="./assert/pixel-neon.gif" width="50%"/>
   <img align="right" src="./assert/pixel-night.gif" width="50%"/>
 </p>
-</table>
+</table> -->
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 <table>
   <tr>
@@ -316,7 +316,7 @@
     <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg">
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
