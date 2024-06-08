@@ -372,7 +372,7 @@ Windows                  60 hrs 22 mins      ███████████�
 <!--END_SECTION:waka-->
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" /> -->
 
 <!-- metrics 信息栏2 -->
 <!-- <table>
