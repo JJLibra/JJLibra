@@ -81,7 +81,7 @@
 </div>
 
 <!-- GitHub 数据统计 -->
-<div align="center" style="display: flex;justify-content: center;align-items: center;">
+<div align="center" style="display: flex;justify-content: center;align-items: center; width='100%'">
   <table>
     <tr>
       <td>
