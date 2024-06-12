@@ -142,7 +142,7 @@
 <!-- </div> -->
 
 <!-- ########################################## 分割 ########################################## -->
-<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" /> -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 <table>
 <tr>
