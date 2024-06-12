@@ -76,7 +76,7 @@
 ### 📈 Github Status
 
 <!-- GitHub 奖杯🏆 -->
-<div align="center" width="190%">
+<div align="center" width="100%">
   <img alig src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
 </div>
 
@@ -85,10 +85,10 @@
   <table>
     <tr>
       <td>
-        <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
+        <img height="160px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
       </td>
       <td>
-        <img height="190px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" /> 
+        <img height="160px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" /> 
       </td>
     </tr>
   </table>
