@@ -75,6 +75,26 @@
 
 ### 📈 Github Status
 
+<!-- GitHub 奖杯🏆 -->
+<div align="center" width="190%">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
+</div>
+
+<!-- GitHub 数据统计 -->
+<div align="center" style="display: flex;justify-content: center;align-items: center;">
+  <table>
+    <tr>
+      <td>
+        <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
+      </td>
+      <td>
+        <img height="190px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" /> 
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact"https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif -->
+
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <!-- <p align="center">
   <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/left.png" />
@@ -95,25 +115,6 @@
 </tr>
 </table>
 
-<!-- GitHub 奖杯🏆 -->
-<div align="center" width="190%">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
-</div>
-
-<!-- GitHub 数据统计 -->
-<div align="center" style="display: flex;justify-content: center;align-items: center;">
-  <table>
-    <tr>
-      <td>
-        <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
-      </td>
-      <td>
-        <img height="190px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" /> 
-      </td>
-    </tr>
-  </table>
-</div>
-<!-- "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact"https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif -->
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <!-- <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
