@@ -81,13 +81,13 @@
 </div>
 
 <!-- GitHub 数据统计 -->
-<div align="center" style="display: flex;justify-content: center;align-items: center; width='100%'">
-  <table>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <table style="width: 100%;">
     <tr>
-      <td>
+      <td style="width: 50%;">
         <img height="160px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
       </td>
-      <td>
+      <td style="width: 50%;">
         <img height="160px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" /> 
       </td>
     </tr>
