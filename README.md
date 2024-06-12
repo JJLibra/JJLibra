@@ -76,7 +76,7 @@
 ### 📈 Github Status
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<p align="center">
+<!-- <p align="center">
   <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/left.png" />
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=radical&hide_border=true" />
@@ -84,16 +84,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=default&hide_border=true" />
   </picture>
   <img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/right.png" />
-</p>
+</p> -->
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
+<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
 <img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center" width="190%">
@@ -107,13 +107,14 @@
       <td>
         <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
       </td>
-    <td>
-      <img height="190px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" /></td>
+      <td>
+        <img height="190px" width="100%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> <!-- "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" -->
+      </td>
     </tr>
   </table>
 </div>
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<div align="center" style="display: flex;justify-content: center;align-items: center;">
+<!-- <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
     <tr>
       <td>
@@ -124,7 +125,7 @@
         </picture>
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- <div align="center"> -->
   <!-- profile-3d-contrib 3D贡献图-->
@@ -378,13 +379,13 @@ PyCharm                  11 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <div align="center" > -->
 
-<table>
+<!-- <table>
 <tr>
   <td><img src="./assets/images/rocket.png"/></td>
-</tr>
+</tr> -->
 <!-- <tr>
   <td><img src="./assert/Bottom_down.svg"/></td>
 </tr> -->
-</table>
+<!-- </table> -->
 
 </div>
