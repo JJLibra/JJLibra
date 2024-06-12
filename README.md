@@ -101,18 +101,19 @@
 </div>
 
 <!-- GitHub 数据统计 -->
-<div align="center" style="display: flex;justify-content: center;align-items: center;">
+<!-- <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
     <tr>
       <td>
         <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
       </td>
       <td>
-        <img height="190px" width="100%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> <!-- "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" -->
+        <img height="190px" width="100%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> 
       </td>
     </tr>
   </table>
-</div>
+</div> -->
+<!-- "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" -->
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <!-- <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
