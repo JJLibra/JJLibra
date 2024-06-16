@@ -93,6 +93,53 @@
     </tr>
   </table>
 </div>
+<!-- "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" -->
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<!-- <p align="center">
+  <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/left.png" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=radical&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=default&hide_border=true" />
+  </picture>
+  <img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/right.png" />
+</p>
+
+<!-- metrics 基础资料 -->
+<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
+<img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" /> -->
+
+</td>
+</tr>
+</table>
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<!-- <div align="center" style="display: flex;justify-content: center;align-items: center;">
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&custom_title=Xxfer's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&theme=xcode&bg_color=FF000000&hide_border=true" />
+        </picture>
+    </tr>
+  </table>
+</div> -->
+
+<!-- <div align="center"> -->
+  <!-- profile-3d-contrib 3D贡献图-->
+  <!-- <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-gitblock.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture> -->
+
+  <!-- 博客仓库记录 -->
+  <!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" /> -->
+<!-- </div> -->
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
@@ -239,6 +286,41 @@
 </tr>
 </table>
 
+<!-- <table>
+<p width="100%" align="center">
+  <img align="left" src="./assert/pixel-neon.gif" width="50%"/>
+  <img align="right" src="./assert/pixel-night.gif" width="50%"/>
+</p>
+</table> -->
+
+<!-- ########################################## 分割 ########################################## -->
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
+
+<table>
+  <tr>
+    <td width="50%">
+    <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=radical&layout=compact&hide_border=true&hide_title=true&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+    </picture>
+    <picture>
+      <img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif"/>
+    </picture>
+    </td>
+    <td width="50%">
+    <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg">
+    <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg">
+    </td>
+  </tr>
+</table> -->
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
@@ -248,21 +330,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                374 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.54 % 
-🌆 Daytime                608 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.65 % 
-🌃 Evening                584 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.20 % 
-🌙 Night                  93 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.61 % 
+🌞 Morning                367 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.53 % 
+🌆 Daytime                599 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.77 % 
+🌃 Evening                570 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.99 % 
+🌙 Night                  93 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.71 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   254 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.31 % 
-Tuesday                  321 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.35 % 
-Wednesday                239 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.41 % 
-Thursday                 181 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.91 % 
-Friday                   247 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.89 % 
-Saturday                 215 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.96 % 
-Sunday                   202 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.18 % 
+Monday                   254 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.59 % 
+Tuesday                  321 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.71 % 
+Wednesday                211 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.95 % 
+Thursday                 180 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.05 % 
+Friday                   246 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.10 % 
+Saturday                 215 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.20 % 
+Sunday                   202 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.40 % 
 ```
 
 
@@ -270,18 +352,63 @@ Sunday                   202 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 53 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.07 % 
-Java                     13 hrs 50 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.84 % 
-XML                      54 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.48 % 
-Groovy                   18 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.84 % 
-Markdown                 16 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.74 % 
+Other                    25 hrs 30 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   66.08 % 
+Java                     11 hrs 27 mins      ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.66 % 
+XML                      40 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.74 % 
+Groovy                   18 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.80 % 
+Gradle                   10 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.47 % 
 
 🔥 Editors: 
-Edge                     20 hrs 53 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.07 % 
-Android Studio           12 hrs 41 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.70 % 
-VS Code                  3 hrs               ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.23 % 
+Edge                     25 hrs 30 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   66.07 % 
+Android Studio           10 hrs 15 mins      ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.56 % 
+VS Code                  2 hrs 39 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.88 % 
+PyCharm                  11 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.48 % 
 ```
 
 
- Last Updated on 2024/06/14 18:39:33 UTC
+ Last Updated on 2024/06/12 06:42:13 UTC
 <!--END_SECTION:waka-->
+
+<!-- ########################################## 分割 ########################################## -->
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" /> -->
+
+<!-- metrics 信息栏2 -->
+<!-- <table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+  </tr>
+</table>
+
+<div align="center" > -->
+
+<!-- <table>
+<tr>
+  <td><img src="./assets/images/rocket.png"/></td>
+</tr> -->
+<!-- <tr>
+  <td><img src="./assert/Bottom_down.svg"/></td>
+</tr> -->
+<!-- </table> -->
+
+<!-- </div> -->
