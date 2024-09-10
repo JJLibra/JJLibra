@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 247mb of code in 9236 edited files across 95 commits</small>
+                <small>estimation from 260mb of code in 9608 edited files across 98 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -34,8 +34,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>44 lines</div>
-                                <div>184 kB</div>
+                                <div>45 lines</div>
+                                <div>185 kB</div>
                             </small>
                         </div>
                     </section>
