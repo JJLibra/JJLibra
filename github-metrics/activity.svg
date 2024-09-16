@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#10 ✨ feat: 视频下载模块</span>
+                                        <span class="issue">#12 ✨ feat: 视频弹幕&amp;在线人数模块</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JJLibra/JJLCrawler</span></div>
-                                    <div>9 files changed <span class="code">++130 --18</span></div>
+                                    <div>5 files changed <span class="code">++66 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#10 ✨ feat: 视频下载模块</span>
+                                        <span class="issue">#12 ✨ feat: 视频弹幕&amp;在线人数模块</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JJLibra/JJLCrawler</span></div>
-                                    <div>9 files changed <span class="code">++130 --18</span></div>
+                                    <div>5 files changed <span class="code">++66 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -57,12 +57,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#9 ✨ feat: 刷新credential测试</span>
+                                        <span class="issue">#11 ✨ feat: 视频评论模块</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JJLibra/JJLCrawler</span></div>
-                                    <div>6 files changed <span class="code">++18 --673</span></div>
+                                    <div>7 files changed <span class="code">++5081 --4</span></div>
                                 </div>
                             </section>
                         </div>
@@ -74,12 +74,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#9 ✨ feat: 刷新credential测试</span>
+                                        <span class="issue">#11 ✨ feat: 视频评论模块</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JJLibra/JJLCrawler</span></div>
-                                    <div>6 files changed <span class="code">++18 --673</span></div>
+                                    <div>7 files changed <span class="code">++5081 --4</span></div>
                                 </div>
                             </section>
                         </div>
@@ -91,12 +91,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#8 ✨ feat: 视频上传模块</span>
+                                        <span class="issue">#10 ✨ feat: 视频下载模块</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">JJLibra/JJLCrawler</span></div>
-                                    <div>9 files changed <span class="code">++231 --3</span></div>
+                                    <div>9 files changed <span class="code">++130 --18</span></div>
                                 </div>
                             </section>
                         </div>
