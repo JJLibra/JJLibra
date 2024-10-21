@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="187" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" class="">
     <defs>
         <style/>
     </defs>
@@ -24,7 +24,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JJLibra/.dotfile</span>
-                                        <span>created 25 days ago</span>
+                                        <span>created 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dotfiles to configure my system.</div>
@@ -80,7 +80,7 @@
                                         <span>created Nov 04 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">无人机路径规划：Astar算法演示应用程序</div>
+                                <div class="field description">UAV path planning: astar algorithm demo application.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
