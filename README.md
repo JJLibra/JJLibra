@@ -37,12 +37,12 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='https://blog.xxfer.cn/posts/1815c0b3.html' target='_blank'>我们00后应该还是有人看Pokémon的吧</a> - 2024-10-19
+* <a href='https://blog.xxfer.cn/posts/2e230587.html' target='_blank'>通知：说好的回归！</a> - 2024-09-11
 * <a href='https://blog.xxfer.cn/posts/c36b97b1.html' target='_blank'>暂时停更通知，会回来的！</a> - 2024-05-13
 * <a href='https://blog.xxfer.cn/posts/98264b23.html' target='_blank'>浮生若梦，为欢几何？</a> - 2024-04-15
 * <a href='https://blog.xxfer.cn/posts/f3cb979.html' target='_blank'>Kerberos身份认证小结</a> - 2024-04-02
 * <a href='https://blog.xxfer.cn/posts/cbd4b5ab.html' target='_blank'>最近</a> - 2024-03-21
-* <a href='https://blog.xxfer.cn/posts/916babf0.html' target='_blank'>How do you normalize your Git commit?</a> - 2024-03-20
-* <a href='https://blog.xxfer.cn/posts/7dca2e02.html' target='_blank'>路径规划：基于QT的Astar算法演示器</a> - 2024-03-15
 <!-- END_SECTION:blog -->
 
 <!-- for beauty 留个空行好看点 -->
@@ -58,11 +58,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35087675/' target='_blank'>看过毒液：最后一舞</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-26
+* <a href='http://movie.douban.com/subject/36463483/' target='_blank'>看过白蛇：浮生</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-21
+* <a href='http://movie.douban.com/subject/4301224/' target='_blank'>看过沉睡魔咒</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-21
 * <a href='http://movie.douban.com/subject/1437909/' target='_blank'>看过梦想奔驰</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
 * <a href='http://movie.douban.com/subject/1307535/' target='_blank'>看过奔腾年代</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/27060077/' target='_blank'>看过绿皮书</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/27107140/' target='_blank'>看过我想吃掉你的胰脏</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/1849031/' target='_blank'>看过当幸福来敲门</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
 <!-- END_SECTION:douban -->
 
 <!-- for beauty 留个空行好看点 -->
@@ -75,8 +75,28 @@
 
 ### 📈 Github Status
 
+<!-- GitHub 奖杯🏆 -->
+<div align="center" width="100%">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
+</div>
+
+<!-- GitHub 数据统计 -->
+<div align="center" style="display: flex;justify-content: center;align-items: center;">
+  <table>
+    <tr>
+      <td>
+        <img height="180px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180px" width="100%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> 
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" -->
+
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<p align="center">
+<!-- <p align="center">
   <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/left.png" />
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=radical&hide_border=true" />
@@ -87,33 +107,16 @@
 </p>
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
+<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
 <img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" /> -->
 
 </td>
 </tr>
 </table>
 
-<!-- GitHub 奖杯🏆 -->
-<div align="center" width="190%">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
-</div>
-
-<!-- GitHub 数据统计 -->
-<div align="center" style="display: flex;justify-content: center;align-items: center;">
-  <table>
-    <tr>
-      <td>
-        <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
-      </td>
-    <td>
-      <img height="190px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" /></td>
-    </tr>
-  </table>
-</div>
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<div align="center" style="display: flex;justify-content: center;align-items: center;">
+<!-- <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
     <tr>
       <td>
@@ -124,19 +127,19 @@
         </picture>
     </tr>
   </table>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center"> -->
   <!-- profile-3d-contrib 3D贡献图-->
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-gitblock.svg" />
     <img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-night-rainbow.svg" />
-  </picture>
+  </picture> -->
 
   <!-- 博客仓库记录 -->
-  <img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" />
-</div>
+  <!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" /> -->
+<!-- </div> -->
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
@@ -283,15 +286,15 @@
 </tr>
 </table>
 
-<table>
+<!-- <table>
 <p width="100%" align="center">
   <img align="left" src="./assert/pixel-neon.gif" width="50%"/>
   <img align="right" src="./assert/pixel-night.gif" width="50%"/>
 </p>
-</table>
+</table> -->
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 <table>
   <tr>
@@ -316,7 +319,7 @@
     <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg">
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
@@ -327,54 +330,49 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                328 commits         ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-🌆 Daytime                562 commits         █████████░░░░░░░░░░░░░░░░   37.77 % 
-🌃 Evening                509 commits         █████████░░░░░░░░░░░░░░░░   34.21 % 
-🌙 Night                  89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+🌞 Morning                490 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.89 % 
+🌆 Daytime                814 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.37 % 
+🌃 Evening                831 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.13 % 
+🌙 Night                  103 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.60 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Tuesday                  313 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Wednesday                202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Thursday                 177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Friday                   243 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Saturday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Sunday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Monday                   330 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.75 % 
+Tuesday                  412 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.41 % 
+Wednesday                325 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.52 % 
+Thursday                 226 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.10 % 
+Friday                   315 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.08 % 
+Saturday                 312 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.94 % 
+Sunday                   318 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.21 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
-Other                    45 hrs 38 mins      ███████████████████░░░░░░   75.16 % 
-Java                     8 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-XML                      2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-C++                      2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Markdown                 57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other                    32 hrs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.71 % 
+Python                   10 hrs 18 mins      ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.21 % 
+Bash                     2 hrs 33 mins       ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.00 % 
+TypeScript               1 hr 50 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.59 % 
+Markdown                 1 hr 7 mins         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.20 % 
 
 🔥 Editors: 
-Edge                     41 hrs 22 mins      █████████████████░░░░░░░░   68.14 % 
-Android Studio           10 hrs 4 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-VS Code                  9 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-
-💻 Operating System: 
-Windows                  60 hrs 43 mins      █████████████████████████   100.00 % 
+Chrome                   36 hrs 32 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   71.62 % 
+VS Code                  13 hrs 34 mins      ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.62 % 
+Android Studio           53 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.76 % 
 ```
 
 
- Last Updated on 05/06/2024 18:38:01 UTC
+ Last Updated on 2024/10/26 18:41:43 UTC
 <!--END_SECTION:waka-->
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" /> -->
 
 <!-- metrics 信息栏2 -->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/reactions.svg" alt="reactions" /></td>
@@ -401,15 +399,15 @@ Windows                  60 hrs 43 mins      ███████████�
   </tr>
 </table>
 
-<div align="center" >
+<div align="center" > -->
 
-<table>
+<!-- <table>
 <tr>
   <td><img src="./assets/images/rocket.png"/></td>
-</tr>
-<tr>
+</tr> -->
+<!-- <tr>
   <td><img src="./assert/Bottom_down.svg"/></td>
-</tr>
-</table>
+</tr> -->
+<!-- </table> -->
 
-</div>
+<!-- </div> -->
