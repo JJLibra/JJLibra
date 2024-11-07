@@ -37,12 +37,12 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='https://blog.xxfer.cn/posts/308a1d42.html' target='_blank'>【持续更新...】Docker封禁：国内可用docker镜像源</a> - 2024-11-03
+* <a href='https://blog.xxfer.cn/posts/1815c0b3.html' target='_blank'>我们00后应该还是有人看Pokémon的吧</a> - 2024-10-19
+* <a href='https://blog.xxfer.cn/posts/2e230587.html' target='_blank'>通知：说好的回归！</a> - 2024-09-11
 * <a href='https://blog.xxfer.cn/posts/c36b97b1.html' target='_blank'>暂时停更通知，会回来的！</a> - 2024-05-13
 * <a href='https://blog.xxfer.cn/posts/98264b23.html' target='_blank'>浮生若梦，为欢几何？</a> - 2024-04-15
 * <a href='https://blog.xxfer.cn/posts/f3cb979.html' target='_blank'>Kerberos身份认证小结</a> - 2024-04-02
-* <a href='https://blog.xxfer.cn/posts/cbd4b5ab.html' target='_blank'>最近</a> - 2024-03-21
-* <a href='https://blog.xxfer.cn/posts/916babf0.html' target='_blank'>How do you normalize your Git commit?</a> - 2024-03-20
-* <a href='https://blog.xxfer.cn/posts/7dca2e02.html' target='_blank'>路径规划：基于QT的Astar算法演示器</a> - 2024-03-15
 <!-- END_SECTION:blog -->
 
 <!-- for beauty 留个空行好看点 -->
@@ -58,11 +58,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35087675/' target='_blank'>看过毒液：最后一舞</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-26
+* <a href='http://movie.douban.com/subject/36463483/' target='_blank'>看过白蛇：浮生</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-21
+* <a href='http://movie.douban.com/subject/4301224/' target='_blank'>看过沉睡魔咒</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-21
 * <a href='http://movie.douban.com/subject/1437909/' target='_blank'>看过梦想奔驰</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
 * <a href='http://movie.douban.com/subject/1307535/' target='_blank'>看过奔腾年代</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/27060077/' target='_blank'>看过绿皮书</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/27107140/' target='_blank'>看过我想吃掉你的胰脏</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/1849031/' target='_blank'>看过当幸福来敲门</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
 <!-- END_SECTION:douban -->
 
 <!-- for beauty 留个空行好看点 -->
@@ -327,7 +327,44 @@
 ### 📊 Wakatime Status
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
+```text
+🌞 Morning                495 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.69 % 
+🌆 Daytime                833 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.50 % 
+🌃 Evening                841 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.85 % 
+🌙 Night                  113 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.95 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   342 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.99 % 
+Tuesday                  416 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.23 % 
+Wednesday                329 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.42 % 
+Thursday                 227 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.95 % 
+Friday                   321 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.07 % 
+Saturday                 313 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.72 % 
+Sunday                   334 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    36 hrs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   85.70 % 
+Markdown                 2 hrs 44 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.51 % 
+Python                   1 hr 51 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.43 % 
+Shell                    31 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.23 % 
+Text                     21 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.87 % 
+
+🔥 Editors: 
+Chrome                   38 hrs 49 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   92.41 % 
+VS Code                  3 hrs 11 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.59 % 
+```
+
+
+ Last Updated on 2024/11/06 18:43:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- ########################################## 分割 ########################################## -->
