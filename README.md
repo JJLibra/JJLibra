@@ -2,7 +2,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.xxfer.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小李今天又在努力变强鸭~&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=在深度学习的真火里;寻找解释世界的终极灵丹妙药...&center=true&size=27" />
     </a>
   </div>
 
@@ -150,12 +150,12 @@
 
 - 📫 How to reach me :
 
-<a href="https://xxfer.cn/"><img src="https://img.shields.io/badge/xxfer.cn-8C5AFF?logo=webrtc&logoColor=white" /></a>
+<a href="https://www.xxfer.cn/"><img src="https://img.shields.io/badge/xxfer.cn-8C5AFF?logo=webrtc&logoColor=white" /></a>
 <a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/blog.xxfer.cn-004788?logo=blogger&logoColor=white" /></a>
 <a href="https://www.zhihu.com/people/shi-shi-88-90-43"><img src="https://img.shields.io/badge/zhihu-0084FF?logo=zhihu&logoColor=white" /></a>
 <a href="https://space.bilibili.com/1327183873/"><img src="https://img.shields.io/badge/Bilibili-FF5CAA?logo=bilibili&logoColor=white" /></a>
-<a href="telephone：18072988138"><img src="https://img.shields.io/badge/Wechat-07C160?logo=Wechat&logoColor=white" /></a>
-<a href="https://2021303114@mail.nwpu.edu.cn/"><img src="https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>&emsp;<!-- visitor statistics logo 访问量统计徽标 --><img src="https://komarev.com/ghpvc/?username=JJLibra&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+<a href="https://mp.xxfer.cn"><img src="https://img.shields.io/badge/Wechat-07C160?logo=Wechat&logoColor=white" /></a>
+<a href="https://qp.xxfer.cn/"><img src="https://img.shields.io/badge/tencentqq-1EBAFC?logo=tencentqq&logoColor=white" /></a>&emsp;<!-- visitor statistics logo 访问量统计徽标 --><img src="https://komarev.com/ghpvc/?username=JJLibra&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </tr>
 </td>
 <tr>
