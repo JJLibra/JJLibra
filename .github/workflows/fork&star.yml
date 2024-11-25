@@ -19,4 +19,4 @@ jobs:
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
-          template: "👋Welcome！这是一个特殊的仓库——我的主页，欢迎你😎\n小李同学's profile with <starCount> stars and <forkCount> forks 🎉"
+          template: "👋Welcome！这是一个特殊的仓库——我的主页，欢迎你😎 小李同学's profile with <starCount> stars and <forkCount> forks 🎉"
