@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 18 * * *' # 02:00 UTC
   workflow_dispatch:
-  
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -14,17 +14,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      - name: Update Readme with Waka Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LINES_OF_CODE : "False"
-          SHOW_PROFILE_VIEWS : "False"
-          SHOW_LANGUAGE_PER_REPO : "False"
-          SHOW_LOC_CHART : "False"
-          SHOW_SHORT_INFO : "False"
-          SHOW_PROJECTS : "False"
-          SHOW_TOTAL_CODE_TIME : "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
