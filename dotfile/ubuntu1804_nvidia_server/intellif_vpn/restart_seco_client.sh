@@ -1,13 +1,9 @@
 #!/bin/bash
 
 INTERNAL_IP="192.168.13.142"
-
 SLEEP_INTERVAL=600  # 10 分钟
-
 SECOCLIENT_PATH="/usr/local/SecoClient/SecoClient"
-
 CONNECTION_NAME="school-pppoe"
-
 LOG_FILE="$HOME/check_vpn_connection.log"
 
 restart_network() {
@@ -28,17 +24,22 @@ restart_seco_client() {
     echo "$(date '+%Y-%m-%d %H:%M:%S') - VPN 连接断开，正在重启 SecoClient" | tee -a "$LOG_FILE"
 
     restart_network
-
     sudo killall -I 'SecoClient' 2>/dev/null
-
     sleep 2
-
     "$SECOCLIENT_PATH" &
 
     if [ $? -eq 0 ]; then
         echo "$(date '+%Y-%m-%d %H:%M:%S') - SecoClient 已成功重启" | tee -a "$LOG_FILE"
     else
         echo "$(date '+%Y-%m-%d %H:%M:%S') - 重启 SecoClient 失败" | tee -a "$LOG_FILE"
+    fi
+}
+
+restart_at_night() {
+    CURRENT_HOUR=$(date '+%H')
+    if [ "$CURRENT_HOUR" -eq 02 ]; then
+        echo "$(date '+%Y-%m-%d %H:%M:%S') - 正在进行每日重启操作" | tee -a "$LOG_FILE"
+        restart_seco_client
     fi
 }
 
@@ -50,6 +51,8 @@ while true; do
     else
         restart_seco_client
     fi
+
+    restart_at_night
 
     sleep "$SLEEP_INTERVAL"
 done
