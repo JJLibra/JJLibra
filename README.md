@@ -30,7 +30,7 @@
 
 <table style="width: 100%;">
 <tr>
-<td>
+<td style="width: 100%;>
 
 ### 📃 Recent Blog
   
@@ -51,7 +51,7 @@
 </td>
 </tr>
 
-<tr><td>
+<tr><td style="width: 100%;>
 
 ### 🤾‍♂️ Funny Soul
 
