@@ -68,11 +68,14 @@
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
-</td></tr>
+</td>
+</tr>
+</table>
 
 <details>
   <summary>More About Me, please click.</summary>
   
+<table>
 <tr>
 <td>
 
@@ -80,7 +83,7 @@
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center" width="100%">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
 </div>
 
 <!-- GitHub 数据统计 -->
