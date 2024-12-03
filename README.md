@@ -105,9 +105,9 @@
 </p> -->
 
 <!-- metrics 基础资料 -->
-<div align="center" width="100%">
-  <img width="20%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
-  <img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />&emsp;
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+  <img width="20%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />
+  <img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />
   <img width="20%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />
 </div>
 
@@ -117,16 +117,11 @@
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-  <table>
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&custom_title=Xxfer's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&theme=xcode&bg_color=FF000000&hide_border=true" />
-        </picture>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&custom_title=Xxfer's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JJLibra&theme=xcode&bg_color=FF000000&hide_border=true" />
+  </picture>
 </div>
 
 <div align="center">
@@ -138,7 +133,7 @@
   </picture>
 
   <!-- 博客仓库记录 -->
-  <img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" />
+  <!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" /> -->
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
