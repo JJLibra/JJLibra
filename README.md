@@ -60,7 +60,7 @@
 <!-- <div>&nbsp;</div> -->
 
 <details>
-  <summary><h3>More about me, please click.</h3></summary>
+  <summary><span style="font-size: 1.5em;">More about me, please click.</span></summary>
 
 ### 📈 Github Status
 
