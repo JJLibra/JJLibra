@@ -28,9 +28,9 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
-<table style="width: 100%;">
-<tr style="width: 100%;>
-<td>
+<table style="width: 100%; table-layout: fixed;">
+<tr>
+<td style="width: 50%; vertical-align: top;">
 
 ### 📃 Recent Blog
   
@@ -49,9 +49,7 @@
 <div>&nbsp;</div>
 
 </td>
-</tr>
-
-<tr style="width: 100%;><td>
+<td style="width: 50%; vertical-align: top;">
 
 ### 🤾‍♂️ Funny Soul
 
