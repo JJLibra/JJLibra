@@ -28,9 +28,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" /> -->
 
-<details>
-  <summary><span style="font-size: 1.5em;">More about me, please click.</span></summary>
-
 <table>
 <tr>
 <td>
@@ -73,6 +70,9 @@
 
 </td></tr>
 
+<tr>
+<td>
+
 ### 📈 Github Status
 
 <!-- GitHub 奖杯🏆 -->
@@ -110,6 +110,10 @@
 <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
 <img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" /> -->
+
+</td>
+</tr>
+</table>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <!-- <div align="center" style="display: flex;justify-content: center;align-items: center;">
