@@ -70,6 +70,9 @@
 
 </td></tr>
 
+<details>
+  <summary>More About Me, please click.</summary>
+  
 <tr>
 <td>
 
@@ -410,3 +413,7 @@ VS Code                  3 hrs 47 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- </table> -->
 
 <!-- </div> -->
+
+</details>
+
+
