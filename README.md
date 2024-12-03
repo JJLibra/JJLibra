@@ -242,6 +242,9 @@
 ![Gitee](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=fff&style=flat)
 ![GitHub copilot](https://img.shields.io/badge/GitHubCopilot-000000?logo=githubcopilot&logoColor=fff&style=flat)
 
+<tr>
+<td>
+
 <div align="center" >
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=py,devto,vscode,linux,bash,powershell,qt,androidstudio,docker,anaconda,git,github,githubactions,matlab" /><br>
