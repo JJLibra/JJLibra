@@ -30,7 +30,7 @@
 
 <table style="width: 100%; table-layout: fixed;">
 <tr>
-<td style="width: 50%; vertical-align: top;">
+<td style="width: 100%; vertical-align: top;">
 
 ### 📃 Recent Blog
   
@@ -49,7 +49,9 @@
 <div>&nbsp;</div>
 
 </td>
-<td style="width: 50%; vertical-align: top;">
+</tr>
+<tr>
+<td style="width: 100%; vertical-align: top;">
 
 ### 🤾‍♂️ Funny Soul
 
