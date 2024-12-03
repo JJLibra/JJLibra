@@ -28,10 +28,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
-<table>
-<tr>
-<td>
-
 ### 📃 Recent Blog
   
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
@@ -67,10 +63,6 @@
 
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
-
-</td>
-</tr>
-</table>
 
 <details>
   <summary>More about me, please click.</summary>
