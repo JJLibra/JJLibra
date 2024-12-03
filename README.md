@@ -57,14 +57,10 @@
 <!-- END_SECTION:douban -->
 
 <!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
+<!-- <div>&nbsp;</div> -->
 
 <details>
   <summary>More about me, please click.</summary>
-  
-<table>
-<tr>
-<td>
 
 ### 📈 Github Status
 
@@ -104,10 +100,6 @@
 <img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" /> -->
 
-</td>
-</tr>
-</table>
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <!-- <div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
@@ -137,10 +129,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
-<table>
-<tr>
-<td>
-
 - 📫 How to reach me :
 
 <a href="https://www.xxfer.cn/"><img src="https://img.shields.io/badge/xxfer.cn-8C5AFF?logo=webrtc&logoColor=white" /></a>
@@ -149,10 +137,6 @@
 <a href="https://space.bilibili.com/1327183873/"><img src="https://img.shields.io/badge/Bilibili-FF5CAA?logo=bilibili&logoColor=white" /></a>
 <a href="https://mp.xxfer.cn"><img src="https://img.shields.io/badge/Wechat-07C160?logo=Wechat&logoColor=white" /></a>
 <a href="https://qp.xxfer.cn/"><img src="https://img.shields.io/badge/tencentqq-1EBAFC?logo=tencentqq&logoColor=white" /></a>&emsp;<!-- visitor statistics logo 访问量统计徽标 --><img src="https://komarev.com/ghpvc/?username=JJLibra&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-</tr>
-</td>
-<tr>
-<td>
 
 - 🧠 I’m currently learning :
 
@@ -197,11 +181,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=flat)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
-</td>
-</tr>
-<tr>
-<td>
-
 - 🧰 Environment :
 
 ![Huawei](https://img.shields.io/badge/Huawei-FF3232?logo=huawei&logoColor=fff&style=flat)
@@ -239,13 +218,6 @@
 ![Gitee](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=fff&style=flat)
 ![GitHub copilot](https://img.shields.io/badge/GitHubCopilot-000000?logo=githubcopilot&logoColor=fff&style=flat)
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>
 <div align="center" >
 
 <!-- programming tool icon 编程工具图标 -->
@@ -275,9 +247,6 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/github.webp">
 
 </div>
-</td>
-</tr>
-</table>
 
 <!-- <table>
 <p width="100%" align="center">
