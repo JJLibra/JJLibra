@@ -25,10 +25,13 @@
   </picture>
 </div>
 
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
-    <img height="180px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> 
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
+    <img height="200px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> 
 </div>
 
 <details>
