@@ -28,7 +28,7 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
-<table>
+<table style="width: 100%;">
 <tr>
 <td>
 
