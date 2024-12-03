@@ -31,7 +31,8 @@
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
-    <img height="200px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> 
+    <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" />
+    <!-- <img height="200px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> -->
 </div>
 
 <details>
@@ -92,10 +93,8 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
 </div>
 
-<!-- "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" -->
-
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<!-- <p align="center">
+<p align="center">
   <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/left.png" />
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=radical&hide_border=true" />
@@ -106,16 +105,16 @@
 </p>
 
 <!-- metrics 基础资料 -->
-<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
 <img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" /> -->
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />
 
 </td>
 </tr>
 </table>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<!-- <div align="center" style="display: flex;justify-content: center;align-items: center;">
+<div align="center" style="display: flex;justify-content: center;align-items: center;">
   <table>
     <tr>
       <td>
@@ -126,19 +125,19 @@
         </picture>
     </tr>
   </table>
-</div> -->
+</div>
 
-<!-- <div align="center"> -->
+<div align="center">
   <!-- profile-3d-contrib 3D贡献图-->
-  <!-- <picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-gitblock.svg" />
     <img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-3d-contrib/profile-night-rainbow.svg" />
-  </picture> -->
+  </picture>
 
   <!-- 博客仓库记录 -->
-  <!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" /> -->
-<!-- </div> -->
+  <img width="120%" src="https://repobeats.axiom.co/api/embed/ac7fba1ac3448c7e4d2c6a6d890fce4a07b5b70e.svg" />
+</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
@@ -288,15 +287,15 @@
 </tr>
 </table>
 
-<!-- <table>
+<table>
 <p width="100%" align="center">
   <img align="left" src="./assert/pixel-neon.gif" width="50%"/>
   <img align="right" src="./assert/pixel-night.gif" width="50%"/>
 </p>
-</table> -->
+</table>
 
 <!-- ########################################## 分割 ########################################## -->
-<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 <table>
   <tr>
@@ -321,7 +320,7 @@
     <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg">
     </td>
   </tr>
-</table> -->
+</table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
@@ -398,19 +397,16 @@ VS Code                  3 hrs 47 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
     <td><img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
-</table>
+</table> -->
 
-<div align="center" > -->
-
-<!-- <table>
+<div align="center" >
+<table>
 <tr>
   <td><img src="./assets/images/rocket.png"/></td>
-</tr> -->
+</tr>
 <!-- <tr>
   <td><img src="./assert/Bottom_down.svg"/></td>
 </tr> -->
-<!-- </table> -->
-
-<!-- </div> -->
+</table></div>
 
 </details>
