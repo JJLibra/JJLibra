@@ -27,16 +27,8 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-  <table>
-    <tr>
-      <td>
-        <img height="180px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180px" width="100%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> 
-      </td>
-    </tr>
-  </table>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
+    <img height="180px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> 
 </div>
 
 <details>
