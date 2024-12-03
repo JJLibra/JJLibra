@@ -94,7 +94,7 @@
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<p align="center">
+<!-- <p align="center">
   <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/left.png" />
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=radical&hide_border=true" />
@@ -102,12 +102,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=default&hide_border=true" />
   </picture>
   <img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/right.png" />
-</p>
+</p> -->
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
-<img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />
+<div align="center" width="100%">
+  <img width="20%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />&emsp;
+  <img src="https://github.com/JJLibra/JJLibra/blob/main/github-metrics/base.svg" />&emsp;
+  <img width="20%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cxyduck.gif" />
+</div>
 
 </td>
 </tr>
