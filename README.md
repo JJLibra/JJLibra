@@ -28,9 +28,9 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
-<table style="width: 100%; table-layout: fixed;">
+<table>
 <tr>
-<td style="width: 100%; vertical-align: top;">
+<td>
 
 ### 📃 Recent Blog
   
@@ -50,8 +50,8 @@
 
 </td>
 </tr>
-<tr>
-<td style="width: 100%; vertical-align: top;">
+
+<tr><td>
 
 ### 🤾‍♂️ Funny Soul
 
@@ -73,7 +73,7 @@
 </table>
 
 <details>
-  <summary>More About Me, please click.</summary>
+  <summary>More about me, please click.</summary>
   
 <table>
 <tr>
@@ -416,7 +416,3 @@ VS Code                  3 hrs 47 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- </table> -->
 
 <!-- </div> -->
-
-</details>
-
-
