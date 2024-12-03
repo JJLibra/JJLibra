@@ -42,12 +42,7 @@
 <!-- END_SECTION:blog -->
 
 <!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
-
-</td>
-</tr>
-
-<tr><td>
+<!-- <div>&nbsp;</div> -->
 
 ### 🤾‍♂️ Funny Soul
 
