@@ -28,9 +28,9 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
 <tr>
-<td>
+<td style="width: 50%; padding: 10px;">
 
 ### 📃 Recent Blog
   
@@ -49,12 +49,9 @@
 <div>&nbsp;</div>
 
 </td>
-</tr>
-
-<tr><td>
+<td style="width: 50%; padding: 10px;">
 
 ### 🤾‍♂️ Funny Soul
-
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
