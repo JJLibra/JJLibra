@@ -1,10 +1,10 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
-  <div>
+  <!-- <div>
     <a href="https://blog.xxfer.cn/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=在深度学习的真火里;寻找解释世界的终极灵丹妙药...&center=true&size=27" />
     </a>
-  </div>
+  </div> -->
 
   <h3 align="center">👤 A developer and student of NWPU 🏨</h3>
 
@@ -26,7 +26,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" /> -->
 
 ### 📃 Recent Blog
   
