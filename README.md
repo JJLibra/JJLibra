@@ -30,7 +30,7 @@
 
 <table style="width: 100%; border-collapse: collapse;">
 <tr>
-<td>
+<td style="width: 100%;">
 
 ### 📃 Recent Blog
   
@@ -49,7 +49,7 @@
 <div>&nbsp;</div>
 
 </td>
-<td>
+<td style="width: 100%;>
 
 ### 🤾‍♂️ Funny Soul
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
