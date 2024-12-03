@@ -25,6 +25,9 @@
   </picture>
 </div>
 
+<details>
+  <summary>More About Me, please click.</summary>
+
 <!-- ########################################## 分割 ########################################## -->
 <!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" /> -->
 
@@ -413,3 +416,5 @@ VS Code                  3 hrs 47 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- </table> -->
 
 <!-- </div> -->
+
+</details>
