@@ -29,8 +29,8 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 <table style="width: 100%;">
-<tr>
-<td style="width: 100%;>
+<tr style="width: 100%;>
+<td>
 
 ### 📃 Recent Blog
   
@@ -51,7 +51,7 @@
 </td>
 </tr>
 
-<tr><td style="width: 100%;>
+<tr style="width: 100%;><td>
 
 ### 🤾‍♂️ Funny Soul
 
