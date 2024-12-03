@@ -25,8 +25,22 @@
   </picture>
 </div>
 
+<!-- GitHub 数据统计 -->
+<div align="center" style="display: flex;justify-content: center;align-items: center;">
+  <table>
+    <tr>
+      <td>
+        <img height="180px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180px" width="100%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> 
+      </td>
+    </tr>
+  </table>
+</div>
+
 <details>
-  <summary>More About Me, please click.</summary>
+  <summary><span style="font-weight: 2em">Click here to learn more about me.</span></summary>
 
 <!-- ########################################## 分割 ########################################## -->
 <!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" /> -->
@@ -83,19 +97,6 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
 </div>
 
-<!-- GitHub 数据统计 -->
-<div align="center" style="display: flex;justify-content: center;align-items: center;">
-  <table>
-    <tr>
-      <td>
-        <img height="180px" width="100%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180px" width="100%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> 
-      </td>
-    </tr>
-  </table>
-</div>
 <!-- "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" -->
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
