@@ -28,6 +28,13 @@
 <!-- ########################################## 分割 ########################################## -->
 <!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" /> -->
 
+<details>
+  <summary><span style="font-size: 1.5em;">More about me, please click.</span></summary>
+
+<table>
+<tr>
+<td>
+
 ### 📃 Recent Blog
   
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
@@ -42,7 +49,12 @@
 <!-- END_SECTION:blog -->
 
 <!-- for beauty 留个空行好看点 -->
-<!-- <div>&nbsp;</div> -->
+<div>&nbsp;</div>
+
+</td>
+</tr>
+
+<tr><td>
 
 ### 🤾‍♂️ Funny Soul
 
@@ -57,10 +69,9 @@
 <!-- END_SECTION:douban -->
 
 <!-- for beauty 留个空行好看点 -->
-<!-- <div>&nbsp;</div> -->
+<div>&nbsp;</div>
 
-<details>
-  <summary><span style="font-size: 1.5em;">More about me, please click.</span></summary>
+</td></tr></table>
 
 ### 📈 Github Status
 
