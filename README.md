@@ -287,17 +287,17 @@
 </tr>
 </table>
 
-<table>
+<!-- <table>
 <p width="100%" align="center">
   <img align="left" src="./assert/pixel-neon.gif" width="50%"/>
   <img align="right" src="./assert/pixel-night.gif" width="50%"/>
 </p>
-</table>
+</table> -->
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" /> -->
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%">
     <picture>
@@ -320,7 +320,7 @@
     <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg">
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
@@ -400,13 +400,7 @@ VS Code                  3 hrs 47 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </table> -->
 
 <div align="center" >
-<table>
-<tr>
-  <td><img src="./assets/images/rocket.png"/></td>
-</tr>
-<!-- <tr>
-  <td><img src="./assert/Bottom_down.svg"/></td>
-</tr> -->
-</table></div>
+  <img src="./assets/images/rocket.png"/></td> <!-- ./assert/Bottom_down.svg -->
+</div>
 
 </details>
