@@ -29,44 +29,42 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" />
 
 <table style="width: 100%; border-collapse: collapse;">
-<tr>
-<td style="width: 100%;">
+  <tr>
+    <td style="width: 100%; padding: 10px;">
+      <h3>📃 Recent Blog</h3>
+      <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
+      <!-- START_SECTION:blog -->
+      <ul>
+        <li><a href='https://blog.xxfer.cn/posts/e8c4dc13.html' target='_blank'>“不就是”与“又怎样”</a> - 2024-11-25</li>
+        <li><a href='https://blog.xxfer.cn/posts/19a02a21.html' target='_blank'>秋水共长天</a> - 2024-11-19</li>
+        <li><a href='https://blog.xxfer.cn/posts/5a9ae0a2.html' target='_blank'>拒绝花里胡哨，返璞归真😶</a> - 2024-11-08</li>
+        <li><a href='https://blog.xxfer.cn/posts/308a1d42.html' target='_blank'>【持续更新...】Docker封禁：国内可用docker镜像源</a> - 2024-11-03</li>
+        <li><a href='https://blog.xxfer.cn/posts/1815c0b3.html' target='_blank'>我们00后应该还是有人看Pokémon的吧</a> - 2024-10-19</li>
+        <li><a href='https://blog.xxfer.cn/posts/2e230587.html' target='_blank'>通知：说好的回归！</a> - 2024-09-11</li>
+      </ul>
+      <!-- END_SECTION:blog -->
+    </td>
+  </tr>
 
-### 📃 Recent Blog
-  
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
+  <!-- 第二行 -->
+  <tr>
+    <td style="width: 100%; padding: 10px;">
+      <h3>🤾‍♂️ Funny Soul</h3>
+      <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+      <!-- START_SECTION:douban -->
+      <ul>
+        <li><a href='http://movie.douban.com/subject/35087675/' target='_blank'>看过毒液：最后一舞</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-26</li>
+        <li><a href='http://movie.douban.com/subject/36463483/' target='_blank'>看过白蛇：浮生</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-21</li>
+        <li><a href='http://movie.douban.com/subject/4301224/' target='_blank'>看过沉睡魔咒</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-21</li>
+        <li><a href='http://movie.douban.com/subject/1437909/' target='_blank'>看过梦想奔驰</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19</li>
+        <li><a href='http://movie.douban.com/subject/1307535/' target='_blank'>看过奔腾年代</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19</li>
+      </ul>
+      <!-- END_SECTION:douban -->
 
-<!-- START_SECTION:blog -->
-* <a href='https://blog.xxfer.cn/posts/e8c4dc13.html' target='_blank'>“不就是”与“又怎样”</a> - 2024-11-25
-* <a href='https://blog.xxfer.cn/posts/19a02a21.html' target='_blank'>秋水共长天</a> - 2024-11-19
-* <a href='https://blog.xxfer.cn/posts/5a9ae0a2.html' target='_blank'>拒绝花里胡哨，返璞归真😶</a> - 2024-11-08
-* <a href='https://blog.xxfer.cn/posts/308a1d42.html' target='_blank'>【持续更新...】Docker封禁：国内可用docker镜像源</a> - 2024-11-03
-* <a href='https://blog.xxfer.cn/posts/1815c0b3.html' target='_blank'>我们00后应该还是有人看Pokémon的吧</a> - 2024-10-19
-* <a href='https://blog.xxfer.cn/posts/2e230587.html' target='_blank'>通知：说好的回归！</a> - 2024-09-11
-<!-- END_SECTION:blog -->
-
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
-
-</td>
-<td style="width: 100%;>
-
-### 🤾‍♂️ Funny Soul
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35087675/' target='_blank'>看过毒液：最后一舞</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-26
-* <a href='http://movie.douban.com/subject/36463483/' target='_blank'>看过白蛇：浮生</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-21
-* <a href='http://movie.douban.com/subject/4301224/' target='_blank'>看过沉睡魔咒</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-21
-* <a href='http://movie.douban.com/subject/1437909/' target='_blank'>看过梦想奔驰</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/1307535/' target='_blank'>看过奔腾年代</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-<!-- END_SECTION:douban -->
-
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
-
-</td>
-</tr>
+      <!-- for beauty 留个空行好看点 -->
+      <div>&nbsp;</div>
+    </td>
+  </tr>
 </table>
 
 <details>
