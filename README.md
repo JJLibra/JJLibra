@@ -30,8 +30,8 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=radical&show_icons=true&count_private=true" />
-    <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=radical&show_icons=true&count_private=true&layout=compact" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=dracula&show_icons=true&count_private=true&hide_border=true" />
+    <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=dracula&show_icons=true&count_private=true&layout=compact&hide_border=true" />
     <!-- <img height="200px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> -->
 </div>
 
@@ -97,7 +97,7 @@
 <!-- <p align="center">
   <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/left.png" />
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=radical&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=dracula&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJLibra&theme=default&hide_border=true" />
   </picture>
@@ -290,7 +290,7 @@
     <td width="50%">
     <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=radical&layout=compact&hide_border=true&hide_title=true&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=dracula&layout=compact&hide_border=true&hide_title=true&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <source
