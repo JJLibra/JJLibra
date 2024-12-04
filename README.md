@@ -30,9 +30,9 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true" />
-    <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=onedark&show_icons=true&count_private=true&layout=compact&hide_border=true" />
-    <!-- <img height="200px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> -->
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true" />
+    <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JJLibra&theme=onedark&show_icons=true&count_private=true&layout=compact&hide_border=true" />
+    <!-- <img height="150px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> -->
 </div>
 
 <details>
