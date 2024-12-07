@@ -50,12 +50,12 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='https://blog.xxfer.cn/posts/c61e8224.html' target='_blank'>奇奇怪怪的</a> - 2024-12-07
 * <a href='https://blog.xxfer.cn/posts/e8c4dc13.html' target='_blank'>“不就是”与“又怎样”</a> - 2024-11-25
 * <a href='https://blog.xxfer.cn/posts/19a02a21.html' target='_blank'>秋水共长天</a> - 2024-11-19
 * <a href='https://blog.xxfer.cn/posts/5a9ae0a2.html' target='_blank'>拒绝花里胡哨，返璞归真😶</a> - 2024-11-08
 * <a href='https://blog.xxfer.cn/posts/308a1d42.html' target='_blank'>【持续更新...】Docker封禁：国内可用docker镜像源</a> - 2024-11-03
 * <a href='https://blog.xxfer.cn/posts/1815c0b3.html' target='_blank'>我们00后应该还是有人看Pokémon的吧</a> - 2024-10-19
-* <a href='https://blog.xxfer.cn/posts/2e230587.html' target='_blank'>通知：说好的回归！</a> - 2024-09-11
 <!-- END_SECTION:blog -->
 
 <!-- for beauty 留个空行好看点 -->
