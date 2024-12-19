@@ -80,7 +80,7 @@
                                         <span>created Nov 04 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">✌️UAV path planning: astar algorithm demo application. 一个基于 Astar 算法的无人机路径规划演示程序，使用 QT 框架实现，小东西渴望您的星星~</div>
+                                <div class="field description">✌️UAV path planning: astar algorithm demo application. 一个基于 Astar 算法的无人机路径规划演示程序，使用 QT 框架实现</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
