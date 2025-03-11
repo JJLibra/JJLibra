@@ -71,11 +71,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35087675/' target='_blank'>看过毒液：最后一舞</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-26
-* <a href='http://movie.douban.com/subject/36463483/' target='_blank'>看过白蛇：浮生</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-21
-* <a href='http://movie.douban.com/subject/4301224/' target='_blank'>看过沉睡魔咒</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-21
-* <a href='http://movie.douban.com/subject/1437909/' target='_blank'>看过梦想奔驰</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
-* <a href='http://movie.douban.com/subject/1307535/' target='_blank'>看过奔腾年代</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-19
+
 <!-- END_SECTION:douban -->
 
 <!-- for beauty 留个空行好看点 -->
