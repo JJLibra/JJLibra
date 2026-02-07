@@ -77,10 +77,10 @@
                                     </svg>
                                     <div class="name">
                                         <span>JJLibra/SALAD-Pan</span>
-                                        <span>created 4 days ago</span>
+                                        <span>created 5 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Official implementation for "SALAD-Pan: Sensor-Agnostic Latent Adaptive Diffusion for Pan-Sharpening" https://arxiv.org/abs/2602.04473</div>
+                                <div class="field description">🤗 Official implementation for "SALAD-Pan: Sensor-Agnostic Latent Adaptive Diffusion for Pan-Sharpening" https://arxiv.org/abs/2602.04473</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
