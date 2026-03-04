@@ -31,8 +31,8 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true" />&emsp;
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true&layout=compact" />
+    <img height="160px" src="https://github-readme-stats-ten-beta-67.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true" />&emsp;
+    <img height="160px" src="https://github-readme-stats-ten-beta-67.vercel.app/api/top-langs/?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true&layout=compact" />
     <!-- <img height="180px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> -->
 </div>
 
@@ -286,14 +286,14 @@
     <td width="50%">
     <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&theme=onedark&layout=compact&hide_border=true&hide_title=true&bg_color=00000000"
+      srcset="https://github-readme-stats-ten-beta-67.vercel.app/api/wakatime?username=sun0225SUN&theme=onedark&layout=compact&hide_border=true&hide_title=true&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+      srcset="https://github-readme-stats-ten-beta-67.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+    <img src="https://github-readme-stats-ten-beta-67.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
     </picture>
     <picture>
       <img src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif"/>
