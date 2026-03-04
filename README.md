@@ -86,7 +86,7 @@
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center" width="100%">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
+  <img align="center" src="https://github-profile-trophy-woad-theta.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
