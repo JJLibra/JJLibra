@@ -51,7 +51,10 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.junjieli.top/example' target='_blank'>组件样式示例</a> - 2024-09-21
+* <a href='https://blog.junjieli.top/before/docker' target='_blank'>Docker 折腾记：国内镜像源失效之后，我是怎么把环境重新拉起来的</a> - 2024-11-03
+* <a href='https://blog.junjieli.top/before/github-diy' target='_blank'>GitHub 首页 DIY：花里胡哨指数++</a> - 2024-01-19
+* <a href='https://blog.junjieli.top/before/astar-qt' target='_blank'>路径规划：一个基于 Qt 的 A* 算法演示器</a> - 2024-03-15
+* <a href='https://blog.junjieli.top/2026/return' target='_blank'>Return</a> - 2026-03-09
 <!-- END_SECTION:blog -->
 
 <!-- for beauty 留个空行好看点 -->
