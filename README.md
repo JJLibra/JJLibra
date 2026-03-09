@@ -51,7 +51,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://blog.junjieli.top/example' target='_blank'>组件样式示例</a> - 2024-09-21
 <!-- END_SECTION:blog -->
 
 <!-- for beauty 留个空行好看点 -->
