@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://blog.junjieli.top/rss.xml
+          blog_rss_link: https://blog.junjieli.top/atom.xml
           blog_limit: 6 # blog数量
           douban_name: xxferyyds
           douban_limit: 5 # 豆瓣最新动态数量
