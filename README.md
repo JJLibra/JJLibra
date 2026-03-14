@@ -19,11 +19,11 @@
   ### You are my ![Visitor Count](https://count.getloli.com/get/@JJLibra.github.readme) visitor, Thank you!
   <!-- https://profile-counter.glitch.me/JJLibra/count.svg -->
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  </picture> -->
 </div>
 
 <!-- for beauty 留个空行好看点 -->
