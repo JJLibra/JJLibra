@@ -48,6 +48,9 @@
 <details>
   <summary><span style="font-weight: 2em">Click here to learn more about me.</span></summary>
 
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
 <!-- ########################################## 分割 ########################################## -->
 <!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/hr.gif" /> -->
 
