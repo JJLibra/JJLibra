@@ -6,7 +6,7 @@
     </a>
   </div> -->
 
-  <h3 align="center">👤 A developer and student of NWPU 🏨</h3>
+  <!-- <h3 align="center">👤 A developer and student of NWPU 🏨</h3> -->
 
   <!-- welcome to my profile  -->
   <p align="center">
@@ -27,13 +27,22 @@
 </div>
 
 <!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
+<!-- <div>&nbsp;</div> -->
 
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
     <img height="160px" src="https://github-readme-stats-ten-beta-67.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true" />&emsp;
     <img height="160px" src="https://github-readme-stats-ten-beta-67.vercel.app/api/top-langs/?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true&layout=compact" />
     <!-- <img height="180px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> -->
+</div>
+
+<div align="center">
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 <details>
