@@ -12,8 +12,8 @@
   <p align="center">
     <img src="./assert/animated-flame-01.gif" width="4%" align="left"/>
     <!-- <img src="./assert/Bottom_up.svg" width="86%"> -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JJLibra/JJLibra/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JJLibra/JJLibra/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img width="92%" align="center" alt="github-snake" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <img src="./assert/animated-flame-01.gif" width="4%" align="right"/>
   </p>
