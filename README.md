@@ -6,7 +6,7 @@
     </a>
   </div> -->
 
-  <h3 align="center">👤 A developer and student of NWPU 🏨</h3>
+  <!-- <h3 align="center">👤 A developer and student of NWPU 🏨</h3> -->
 
   <!-- welcome to my profile  -->
   <p align="center">
@@ -19,7 +19,11 @@
   </p>
 
   <!-- <img width="5%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cat.gif" />  -->
-  <h3 align="center">You are my ![Visitor Count](https://count.getloli.com/get/@JJLibra.github.readme) visitor, Thank you!</h3>
+  <h3 align="center">
+    You are my
+    <img src="https://count.getloli.com/get/@JJLibra.github.readme" alt="Visitor Count" height="20" />
+    visitor, Thank you!
+  </h3>
   <!-- https://profile-counter.glitch.me/JJLibra/count.svg -->
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <!-- <picture>
