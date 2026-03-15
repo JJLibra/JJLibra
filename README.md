@@ -10,12 +10,12 @@
 
   <!-- welcome to my profile  -->
   <p align="center">
-    <img src="./assert/animated-flame-01.gif" width="5%" align="left"/>
+    <img src="./assert/animated-flame-01.gif" width="4%" align="left"/>
     <!-- <img src="./assert/Bottom_up.svg" width="86%"> -->
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img width="90%" align="center" alt="github-snake" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <img src="./assert/animated-flame-01.gif" width="5%" align="right"/>
+    <img width="92%" align="center" alt="github-snake" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <img src="./assert/animated-flame-01.gif" width="4%" align="right"/>
   </p>
 
   <!-- <img width="5%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cat.gif" />  -->
@@ -40,7 +40,7 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-    <img src="https://count.getloli.com/get/@JJLibra.github.readme" alt="Visitor Count" width="36%" />
+    <img src="https://count.getloli.com/get/@JJLibra.github.readme" alt="Visitor Count" width="42%" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&hide=issues&hide_border=true" />&emsp;
     <!-- <img height="160px" src="https://github-readme-stats-ten-beta-67.vercel.app/api/top-langs/?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true&layout=compact" /> -->
     <!-- <img height="40%" src="https://github-readme-stats-ten-beta-67.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true" />&emsp; -->
