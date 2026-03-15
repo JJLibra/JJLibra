@@ -39,20 +39,12 @@
 <!-- <div>&nbsp;</div> -->
 
 <!-- GitHub 数据统计 -->
-<!-- <div align="center" style="display: flex;justify-content: center;align-items: center;">
-    <img src="https://count.getloli.com/get/@JJLibra.github.readme" alt="Visitor Count" width="38%" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&hide=issues&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&hide=issues&hide_border=true" />
-    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&hide=issues&hide_border=true" />&emsp;
-</div> -->
-
-<p align="center">
+<div align="center">
   <img
     src="https://count.getloli.com/get/@JJLibra.github.readme"
     alt="Visitor Count"
     width="38%"
   />
-  &emsp;
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -68,20 +60,12 @@
       width="42%"
     />
   </picture>
-</p>
+</div>
 
 <!-- <img height="160px" src="https://github-readme-stats-ten-beta-67.vercel.app/api/top-langs/?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true&layout=compact" /> -->
 <!-- <img height="40%" src="https://github-readme-stats-ten-beta-67.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true" />&emsp; -->
 <!-- <img height="40%" src="https://github-readme-stats-ten-beta-67.vercel.app/api/top-langs/?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true&layout=compact" /> -->
 <!-- <img height="180px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> -->
-
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div> -->
 
 <details>
   <summary><span style="font-weight: 2em">Click here to learn more about me.</span></summary>
