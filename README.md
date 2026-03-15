@@ -46,14 +46,13 @@
     <img width="42%" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&hide=issues&hide_border=true" />&emsp;
 </div> -->
 
-<div align="center">
-
+<p align="center">
   <img
     src="https://count.getloli.com/get/@JJLibra.github.readme"
     alt="Visitor Count"
     width="38%"
   />
-
+  &emsp;
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -64,13 +63,12 @@
       srcset="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=default&show_icons=true&hide=issues&hide_border=true"
     />
     <img
+      src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=default&show_icons=true&hide=issues&hide_border=true"
       alt="JJLibra GitHub Stats"
       width="42%"
-      src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=default&show_icons=true&hide=issues&hide_border=true"
     />
   </picture>
-
-</div>
+</p>
 
 <!-- <img height="160px" src="https://github-readme-stats-ten-beta-67.vercel.app/api/top-langs/?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true&layout=compact" /> -->
 <!-- <img height="40%" src="https://github-readme-stats-ten-beta-67.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true" />&emsp; -->
