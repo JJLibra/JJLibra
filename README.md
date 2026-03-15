@@ -11,7 +11,10 @@
   <!-- welcome to my profile  -->
   <p align="center">
     <img src="./assert/animated-flame-01.gif" width="5.5%" align="left"/>
-    <img src="./assert/Bottom_up.svg" width="86%">
+    <!-- <img src="./assert/Bottom_up.svg" width="86%"> -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <img src="./assert/animated-flame-01.gif" width="5.5%" align="right"/>
   </p>
 
@@ -36,14 +39,13 @@
     <!-- <img height="180px" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/coding.gif" /> -->
 </div>
 
-<div align="center">
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
+</div> -->
 
 <details>
   <summary><span style="font-weight: 2em">Click here to learn more about me.</span></summary>
