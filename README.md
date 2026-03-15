@@ -10,14 +10,13 @@
 
   <!-- welcome to my profile  -->
   <p align="center">
-    <!-- <img src="./assert/animated-flame-01.gif" width="4%" alt="left flame" /> -->
     <img src="./assert/animated-flame-01.gif" width="4%" align="left"/>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake-dark.svg"/>
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg"/>
       <img width="90%" alt="github-snake" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg"/>
     </picture>
-    <img src="./assert/animated-flame-01.gif" width="4%" alt="right" />
+    <img src="./assert/animated-flame-01.gif" width="4%" align="right"/>
   </p>
 
   <!-- <img width="5%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cat.gif" />  -->
