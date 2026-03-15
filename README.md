@@ -17,7 +17,6 @@
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg"/>
       <img width="90%" alt="github-snake" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/profile-snake-contrib/github-contribution-grid-snake.svg"/>
     </picture>
-    <!-- <img src="./assert/animated-flame-01.gif" width="4%" alt="right flame" /> -->
     <img src="./assert/animated-flame-01.gif" width="4%" alt="right" />
   </p>
 
