@@ -117,8 +117,26 @@
 ### 📈 Github Status
 
 <!-- GitHub 奖杯🏆 -->
-<div align="center" width="100%">
+<!-- <div align="center" width="100%">
   <img align="center" src="https://github-profile-trophy-woad-theta.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"/>
+</div> -->
+
+<!-- GitHub 奖杯🏆 -->
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy-woad-theta.vercel.app/?username=JJLibra&theme=darkhub&column=9&rank=-U"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-profile-trophy-woad-theta.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"
+    />
+    <img
+      alt="GitHub Trophies"
+      src="https://github-profile-trophy-woad-theta.vercel.app/?username=JJLibra&theme=juicyfresh&column=9&rank=-U"
+    />
+  </picture>
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
