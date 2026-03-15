@@ -21,7 +21,7 @@
   <!-- <img width="5%" src="https://cdn.jsdelivr.net/gh/JJLibra/JJLibra/assets/images/cat.gif" />  -->
   <h3 align="center">
     You are my
-    <img src="https://count.getloli.com/get/@JJLibra.github.readme" alt="Visitor Count" height="20" />
+    <img src="https://count.getloli.com/get/@JJLibra.github.readme" alt="Visitor Count" height="50%" />
     visitor, Thank you!
   </h3>
   <!-- https://profile-counter.glitch.me/JJLibra/count.svg -->
