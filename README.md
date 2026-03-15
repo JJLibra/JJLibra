@@ -41,7 +41,7 @@
 <!-- GitHub 数据统计 -->
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
     <img src="https://count.getloli.com/get/@JJLibra.github.readme" alt="Visitor Count" height="160px" />
-    <img height="160px" src="https://github-readme-stats-ten-beta-67.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true" />&emsp;
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&hide=issues" />&emsp;
     <!-- <img height="160px" src="https://github-readme-stats-ten-beta-67.vercel.app/api/top-langs/?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true&layout=compact" /> -->
     <!-- <img height="40%" src="https://github-readme-stats-ten-beta-67.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true" />&emsp; -->
     <!-- <img height="40%" src="https://github-readme-stats-ten-beta-67.vercel.app/api/top-langs/?username=JJLibra&theme=onedark&show_icons=true&count_private=true&hide_border=true&layout=compact" /> -->
