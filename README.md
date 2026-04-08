@@ -43,14 +43,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&hide=issues&hide_border=true"
+      srcset="https://github-readme-stats-ten-beta-67.vercel.app/api?username=JJLibra&theme=onedark&show_icons=true&hide=issues&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=default&show_icons=true&hide=issues&hide_border=true"
+      srcset="https://github-readme-stats-ten-beta-67.vercel.app/api?username=JJLibra&theme=default&show_icons=true&hide=issues&hide_border=true"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=JJLibra&theme=default&show_icons=true&hide=issues&hide_border=true"
+      src="https://github-readme-stats-ten-beta-67.vercel.app/api?username=JJLibra&theme=default&show_icons=true&hide=issues&hide_border=true"
       alt="JJLibra GitHub Stats"
       width="42%"
     />
